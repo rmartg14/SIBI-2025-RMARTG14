@@ -23,13 +23,13 @@ usando una combinación de:
   - `datasetSibi.csv`
   - `añadirCosas.csv`
   - `atractivos_FINALES.csv`
-  - `neo4j_setup.txt`: explicación de cómo crear la base de datos desde cero y todas las queries Cypher.
+  - `neo4j_setup.md`: explicación de cómo crear la base de datos desde cero y todas las queries Cypher.
 
 - `docs/`  
   Documentación generada durante el proyecto:
-  - `Memoria_Proyecto_ErasmAI.pdf`
+  - `Memoria_ErasmAI.pdf`
   - `Presentacion_ErasmAI.pdf`
-  - `Video_explicativo_ErasmAI.mp4`
+  - `Video_ErasmAI.mp4`
 
 ## Listado de avances en el desarrollo:
 https://osf.io/6qr4b/wiki?wiki=39t8g
@@ -44,4 +44,4 @@ https://osf.io/6qr4b/wiki?wiki=39t8g
 3. Crear un archivo .env donde almacenar la APIKEY necesaria para Groq. La puedes obtener en https://console.groq.com/home
 
 Ejecutar la app:
-streamlit run src/app.py
+**streamlit run src/app.py**
