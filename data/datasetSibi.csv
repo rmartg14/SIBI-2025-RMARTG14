@@ -1,0 +1,939 @@
+﻿carrera,pais_destino,ciudad_destino,universidad_destino,plazas,meses,cert_idioma,nivel_idioma,ranking_uni,exchange_score
+Derecho,ALEMANIA,Dresden,Tech. Univ. Dresden,2,10,SI,B2 Aleman,93,7.1
+Derecho,ALEMANIA,Frankfurt (Oder),European University Viadrina,1,10,SI,B2 Ingles o B2 Aleman,554,4.6
+Derecho,ALEMANIA,Mittweida,Hochschule Mittweida-University of Applied Sciences,1,10,SI,B2 Aleman,558,4.6
+Derecho,ALEMANIA,Munich,Ludwig Maximilians Universität Munchen,1,10,SI,B1 Aleman,21,34.3
+Derecho,ESLOVENIA,Kranj,Graduate School Of Government In European Studies,1,10,SI,B2 Ingles,686,1
+Derecho,FRANCIA,Lille,Universite Du Droit Et De La Sante De Lille,2,10,SI,B2 Frances,250,5.2
+Derecho,FRANCIA,Nantes, Université de Nantes,4,10,SI,B1 Frances,310,16.4
+Derecho,FRANCIA,Orleans, Universidad de Orleans,2,10,SI,B2 Frances,511,5.2
+Derecho,FRANCIA,Nanterre,Universidad de París-Nanterre,3,10,SI,B1 Frances,436,5.2
+Derecho,FRANCIA,Paris,Faculté Libre de Droit et dÉconomie Gestion Faco Paris,2,10,SI,B1 Frances,686,1
+Derecho,FRANCIA,Pau,Universite De Pau Et Des Pays De L'Adour,2,10,SI,B2 Frances,686,1
+Derecho,HUNGRÍA,Budapest, National University of Public Service,2,10,SI,B2 Ingles,686,1
+Derecho,ITALIA,Bari,Universita Degli Studi Di Bari,2,10,NO,B1 Italiano,311,16.3
+Derecho,ITALIA,Benevento,Universitá degli Studi del Sannio,2,10,NO,B1 Italiano,686,0
+Derecho,ITALIA,Bolonia,Universidad de Bologna,2,10,NO,A2 Italiano,48,82.3
+Derecho,ITALIA,Cagliari,Universita Degli Studi di Cagliari,1,10,NO,A2 Italiano,686,1
+Derecho,ITALIA,Catanzaro,Universidad de Catanzaro,2,10,NO,B1 Italiano,686,1
+Derecho,ITALIA,Rende,Università Della Calabria,1,10,NO,B1 Italiano,347,20.8
+Derecho,ITALIA,Foggia,University of Foggia,2,10,NO,B1 Italiano,477,79.9
+Derecho,ITALIA,Genova,Universita Degli Studi Di Genova,2,10,NO,B1 Italiano,227,56
+Derecho,ITALIA,Macerata,Universita Degli Studi Di Macerata,1,10,SI,B1 Italiano,583,2.8
+Derecho,ITALIA,Messina, University of Messina,2,10,NO,B1 Italiano,320,19.8
+Derecho,ITALIA,Milan,Universidad de Milan-Bicocca,2,10,SI,B1 Italiano,207,16.1
+Derecho,ITALIA,Napoles,U. Degli Studi Di Napoli. Federico II,4,10,NO,B1 Italiano,151,11.2
+Derecho,ITALIA,Roma,"Universidad de Roma ""La Sapienza""",2,10,SI,B1 Italiano o B1 Ingles,66,53.8
+Derecho,ITALIA,Roma,"Universita Degli Studi Di Roma ""Tor Vergata""",1,10,NO,B1 Italiano,168,68.3
+Derecho,ITALIA,Roma,Terza Universita Degli Studi Di Roma,2,10,SI,B1 Italiano,334,2.8
+Derecho,ITALIA,Roma,Universita Europea Di Roma,2,10,SI,B1 Italiano o B2 Ingles ,686,1
+Derecho,ITALIA,Roma, Universitas Mercatorum,2,10,NO,B1 Italiano,686,1
+Derecho,ITALIA,Salerno, Universitá degli Studi di Salerno,2,10,NO,A2 Italiano,315,44.5
+Derecho,ITALIA,Sassari,Universidad de Sassari,2,10,NO,B1 Italiano,686,1
+Derecho,ITALIA,Teramo,Universitá degli Studi de Teramo,2,10,SI,B1 Italiano,686,1
+Derecho,ITALIA,Varese,Universidad de Insubria,1,10,NO,B2 Italiano,465,11
+Derecho,ITALIA,Padua,Universita Degli Studi di Padova,2,10,SI,A2 Ingles o B1 Ingles,87,75.2
+Derecho,LETONIA,Riga,Baltijas Starptautiska Aklademija,1,10,SI,B1 Ingles,686,1
+Derecho,LITUANIA,Vilna,Mykolo Romerio Universitetas (Mykolas Romeris University),1,10,SI,B2 Ingles,348,96.3
+Derecho,POLONIA,Gdansk,University Of Gdansk (Uniwersytet Gdanski),2,10,SI,B2 Ingles,332,18.9
+Derecho,POLONIA,Katowice,Univ. Slaski W. Katowice,2,10,SI,B2 Ingles,463,2.8
+Derecho,PORTUGAL,Braga,Universidade Do Minho ,2,10,NO,B1 Portugués,248,9.8
+Derecho,PORTUGAL,Castelo Branco,Instituto Politecnico De Castelo Branco,2,10,NO,B1 Portugués,686,1
+Derecho,PORTUGAL,Lisboa,Instituto unviersitario de Lisboa,1,10,NO,B2 Portugués,330,100
+Derecho,PORTUGAL,Lisboa,Universidade de Lisboa,2,10,SI,B1 Portugués,92,79.4
+Derecho,PORTUGAL,Oporto,Universidade do Porto,3,10,NO,B1 Portugués,111,84.5
+Derecho,RUMANÍA,Cluj-Napoca,"Universitatea ""Babes-Bolyai"" Din Cluj-Napoca",2,10,SI,B2 Ingles,256,8.8
+Ciencia de los Alimentos,FRANCIA,Brest,Universite De Bretagne Occidentale,2,10,SI, B2 Frances,451,5.2
+Ciencia de los Alimentos,FRANCIA,Dunkerque,Universite Du Littoral Côte D´Opale,2,10,SI, B2 Frances,663,5.2
+Ciencia de los Alimentos,GRECIA,Atenas, University of West Attica,2,10,SI, B2 Ingles,686,1
+Ciencia de los Alimentos,GRECIA,Larisa,Technolocial Educational Institution (T.E.I.) of Larissa,1,10,SI, B1 Ingles,686,1
+Ciencia de los Alimentos,GRECIA,Salónica, Alexander Technological Educational Institute of Thessaloniki,1,10,SI, B2 Ingles,686,1
+Ciencia de los Alimentos,GRECIA,Volos, Panepistimio Thessalias,1,5,SI, B1 Ingles,686,1
+Ciencia de los Alimentos,ITALIA,Napoles,U. Degli Studi Di Napoli. Federico II,2,6,NO,B1 Italiano,151,11.2
+Ciencia de los Alimentos,ITALIA,Parma,Università Degli Studi di Parma,1,10,NO,A2 Italiano,369,21.6
+Ciencia de los Alimentos,ITALIA,Pisa,Universita di Pisa,2,10,SI, A2 Italiano,137,62
+Ciencia de los Alimentos,ITALIA,Teramo,Universitá degli Studi de Teramo,2,10,SI, B1 Italiano,686,1
+Ciencia de los Alimentos,LITUANIA,Kaunas,Lithuanian University of Health Sciences,2,5,SI, B1 Ingles,686,1
+Ciencia de los Alimentos,POLONIA,Breslavia,Wroclaw University of Environmental and Life Sciences,2,10,SI, B2 Ingles,452,53.1
+Ciencia de los Alimentos,PORTUGAL,Castelo Branco,Instituto Politecnico de Castelo Branco,2,10,NO,B1 Portugués,686,1
+Ciencia de los Alimentos,PORTUGAL,Lisboa, Universidade de Lisboa,4,10,NO,B1 Portugués,92,79.4
+Ciencia de los Alimentos,PORTUGAL,Vila Real,Universidade de Tras os Montes E Alto Douro,2,10,NO,B1 Portugués,531,9.8
+Veterinaria,ALEMANIA,Berlín,Freie universität Berlin,1,10,SI,B1 Aleman,43,64.6
+Veterinaria,ALEMANIA,Munich,Ludwig Maximilians Universität Munchen,1,10,SI,B1 Aleman,21,34.3
+Veterinaria,AUSTRIA,Viena,University of Veterinary Medicine,1,5,SI,B2 Aleman o C1 Aleman,686,1
+Veterinaria,BÉLGICA,Liege,Universite de Liege,2,10,SI,B1 Frances,166,23.5
+Veterinaria,ESLOVAQUIA,Košice, Kosice Veterinary University,6,10,SI,B1 Ingles,686,1
+Veterinaria,ITALIA,Bolonia,Universidad de Bologna,2,10,NO,A2 Italiano,48,82.3
+Veterinaria,ITALIA,Milan,Univ. Degli Studi di Milano,4,10,NO,B1 Italiano,113,26.7
+Veterinaria,ITALIA,Padua,Universita Degli Studi di Padova,3,10,SI,B1 Ingles,87,75.2
+Veterinaria,ITALIA,Pisa,Universita di Pisa,3,10,SI,A2 Italiano,137,62
+Veterinaria,ITALIA,Turín,Universita di Torino,2,10,NO,A2 Italiano,139,21.6
+Veterinaria,POLONIA,Breslavia,Wroclaw University of Environmental and Life Sciences,3,10,SI,B2 Ingles,452,53.1
+Veterinaria,PORTUGAL,Évora,Universidade de Evora,2,10,SI,B1 Portugués,686,1
+Veterinaria,PORTUGAL,Lisboa, Universidade de Lisboa,2,10,NO,B1 Portugués,92,79.4
+Veterinaria,PORTUGAL,Vila Real,Universidade de Tras os Montes E Alto Douro,2,10,NO,B1 Portugués,531,9.8
+Veterinaria,RUMANÍA,Bucarest, University of Agronomic Sciences and Vet. Medicine Bucharest,2,10,SI,B1 Ingles,686,1
+Biología,ALEMANIA,Lecce,Universidad de Salento (Lecce),1,10,SI,B1 Aleman,420,13.4
+Biología,ALEMANIA,Gottingen,G.A.U. Gottingen,2,10,SI,B2 Aleman,82,4.6
+Biología,BÉLGICA,Liege,Universite de Liege,2,10,SI,B1 Frances o B1 Ingles,166,23.5
+Biología,BÉLGICA,Namur,Facultes Univ. Notre Dame de La Paix,2,10,SI,B1 Ingles o B1 Frances ,366,10.8
+Biología,FRANCIA,Aviñón,Universite de Avignon Et Pays Du Vaucluse,1,10,SI,B1 Frances,495,5.2
+Biología,FRANCIA,Dijon,Universite de Bourgogne,2,10,SI,B2 Frances,686,1
+Biología,FRANCIA,Montpellier,Universite de Montpellier,1,10,SI,B1 Frances,199,5.2
+Biología,IRLANDA,Maynooth, MAYNOOTH UNIVERSITY,2,10,SI,B1 Ingles,289,26
+Biología,ITALIA,Bari,Universita Degli Studi Di Bari,2,10,NO,B1 Italiano,311,16.3
+Biología,ITALIA,Bolonia,Universidad de Bologna,1,10,NO,A2 Italiano,48,82.3
+Biología,ITALIA,Cagliari,Universita Degli Studi di Cagliari,2,10,NO,A1 Italiano,686,1
+Biología,ITALIA,Campobasso,Universita degli Studi del Molise ,2,10,NO,A2 Italiano,686,1
+Biología,ITALIA,Florencia,Universita degli Studi di Firenze,2,10,SI,B1 Italiano o B2 Ingles,147,70.3
+Biología,ITALIA,Lecce,Universidad de Salento (Lecce),2,10,NO,B1 Italiano,420,13.4
+Biología,ITALIA,Caserta," Università degli Studi della Campania ""Luigi Vanvitelli"" ",2,10,NO,B1 Italiano,450,2.8
+Biología,ITALIA,Roma,"Universita degli Studi di Roma ""Tor Vergata""",2,10,SI,B1 Italiano  o B1 Ingles,168,68.3
+Biología,ITALIA,Sassari,Universidad de Sassari,2,10,NO,B1 Italiano,686,1
+Biología,ITALIA,Siena,Universitá degli Studi di Siena,1,10,NO,A2 Italiano,280,91.9
+Biología,ITALIA,Trieste,Universita Studi di Trieste,3,10,NO,B1 Italiano,335,14.1
+Biología,POLONIA,Breslavia,Uniwersytet Wroclawski,2,10,SI,B2 Ingles,308,39.6
+Biología,POLONIA,Zielona Gora,University of Zielona Gora,4,10,SI,B1 Ingles,521,1.4
+Biología,PORTUGAL,Sao Miguel, Universidade dos Açores,2,10,NO,B1 Portugués,686,1
+Biología,PORTUGAL,Aveiro,Universidad de Aveiro,1,10,NO,B1 Portugués,216,63.7
+Biología,PORTUGAL,Coimbra,Universidad de Coimbra,4,10,NO,B1 Portugués,138,97.8
+Biología,PORTUGAL,Lisboa,Universidade Nova de Lisboa,2,10,SI,A2 Portugués o B1 Ingles,133,84.3
+Biología,PORTUGAL,Vila Real,Universidade de Tras os Montes e Alto Douro,3,10,NO,B1 Portugués,531,9.8
+Biología,REINO UNIDO,Nottingham,Nottingham Trent University,3,10,SI,B2 Ingles,189,8.9
+Biología,SUECIA,Gotemburgo, University of Gothenburg (Goteborg University),2,10,SI,B2 Ingles,71,53.3
+Biología,TURQUÍA,Elazig,  Firat University,1,10,SI,B1 Ingles,502,83
+Biotecnología,ALEMANIA,Gottingen,G.A.U. Gottingen,2,10,SI,B2 Aleman,82,4.6
+Biotecnología,BÉLGICA,Liege,Universite de Liege,2,10,SI,B1 Frances o B1 Ingles,166,23.5
+Biotecnología,BÉLGICA,Namur,Facultes Univ. Notre Dame de La Paix,2,10,SI,B1 Ingles o B1 Frances,366,10.8
+Biotecnología,ESLOVENIA,Liubliana,Univerza V Ljubljani (University Of Ljubljana),1,10,SI,B2 Ingles,221,55.9
+Biotecnología,FRANCIA,Aviñón,Universite de Avignon Et Pays Du Vaucluse,1,10,SI,B1 Frances,495,5.2
+Biotecnología,HUNGRÍA,Budapest, Budapest University of Technology and Economics,2,10,SI,B2 Ingles,247,82.5
+Biotecnología,IRLANDA,Maynooth, MAYNOOTH UNIVERSITY,2,10,SI,B1 Ingles,289,26
+Biotecnología,ITALIA,Bolonia,Universidad de Bologna,1,10,NO,A2 Italiano,48,82.3
+Biotecnología,ITALIA,Cagliari,Universita Degli Studi di Cagliari,2,10,NO,A1 Italiano,686,1
+Biotecnología,ITALIA,Catanzaro,Universidad de Catanzaro,1,10,NO,B1 Italiano,686,1
+Biotecnología,ITALIA,Foggia, University of Foggia,2,10,NO,B1 Italiano,477,79.9
+Biotecnología,ITALIA,Genova,Universita degli studi di Genova,2,10,NO,B1 Italiano,227,56
+Biotecnología,ITALIA,Roma,"Universita degli Studi di Roma ""Tor Vergata""",2,10,SI,B1 Italiano o B1 Ingles,168,68.3
+Biotecnología,ITALIA,Siena,Universitá degli Studi di Siena,1,10,NO,A2 Italiano,280,91.9
+Biotecnología,ITALIA,Trieste,Universita Studi di Trieste,3,10,NO,B1 Italiano,335,14.1
+Biotecnología,POLONIA,Breslavia,Uniwersytet Wroclawski,2,10,SI,B2 Ingles,308,39.6
+Biotecnología,POLONIA,Zielona Gora,University of Zielona Gora,4,10,SI,B1 Ingles,521,1.4
+Biotecnología,PORTUGAL,Aveiro,Universidad de Aveiro,1,10,NO,B1 Portugués,216,63.7
+Biotecnología,PORTUGAL,Leiria,Politechnic Institute of Leiria,2,10,NO,B1 Portugués,686,1
+Biotecnología,PORTUGAL,Lisboa,Universidade Nova de Lisboa,2,10,SI,A2 Portugués o B1 Ingles,133,84.3
+Biotecnología,PORTUGAL,Setúbal, Instituto Politecnico de Setúbal,2,10,NO,B1 Portugués,686,1
+Biotecnología,PORTUGAL,Viana do Castelo,Instituto Politecnico de Viana do Castelo,2,10,NO,B1 Portugués,686,1
+Biotecnología,PORTUGAL,Vila Real,Universidade de Tras os Montes e Alto Douro,3,10,NO,B1 Portugués,531,9.8
+Biotecnología,REINO UNIDO,Nottingham,Nottingham Trent University,3,10,SI,B2 Ingles,189,8.9
+Biotecnología,TURQUÍA,Elazig,Firat University,1,10,SI,B1 Ingles,502,83
+Ciencias Ambientales,ALEMANIA,Giessen,Justus Liebig Universität Giessen,1,10,SI,B1 Aleman,259,4.6
+Ciencias Ambientales,AUSTRIA,Leoben,Montanuniversität Leoben,1,10,SI,B2 Ingles o B2 Aleman ,686,1
+Ciencias Ambientales,BÉLGICA,Liege,Universite de Liege,2,10,SI,B1 Frances o B1 Ingles,166,23.5
+Ciencias Ambientales,BÉLGICA,Namur,Facultes Univ. Notre Dame de La Paix,2,10,SI,B1 Ingles o B1 Frances,366,10.8
+Ciencias Ambientales,FRANCIA,Aviñón,Universite de Avignon Et Pays Du Vaucluse,1,10,SI,B1 Frances,495,5.2
+Ciencias Ambientales,FRANCIA,Beauvais, UniLasalle,2,10,SI,B2 Ingles o B2 Frances,686,1
+Ciencias Ambientales,FRANCIA,Dijon,Universite de Bourgogne,2,10,SI,B2 Frances,686,1
+Ciencias Ambientales,FRANCIA,Montpellier,Universite de Montpellier,1,10,SI,B1 Frances,199,5.2
+Ciencias Ambientales,FRANCIA,Montpellier,Universite de Montpellier,1,10,SI,B2 Frances,199,5.2
+Ciencias Ambientales,GRECIA,Chania, Technical university of Crete,1,10,SI,B2 Ingles,686,1
+Ciencias Ambientales,ITALIA,Bolonia,Universidad de Bologna,1,10,NO,A2 Italiano,48,82.3
+Ciencias Ambientales,ITALIA,Cagliari,Universita Degli Studi di Cagliari,2,10,NO,A1 Italiano,686,1
+Ciencias Ambientales,ITALIA,Florencia,Universita degli Studi di Firenze,2,10,SI,B1 Italiano o B2 Ingles,147,70.3
+Ciencias Ambientales,ITALIA,Caserta," Università degli Studi della Campania ""Luigi Vanvitelli""",2,10,NO,B1 Italiano,450,2.8
+Ciencias Ambientales,ITALIA,Siena,Universitá degli Studi di Siena,1,10,NO,A2 Italiano,280,91.9
+Ciencias Ambientales,ITALIA,Trieste,Universita Studi di Trieste,3,10,NO,B1 Italiano,335,14.1
+Ciencias Ambientales,ITALIA,Como,Universidad de Insubria,1,10,NO,B2 Italiano,465,11
+Ciencias Ambientales,POLONIA,Zielona Gora,University of Zielona Gora,4,10,SI,B1 Ingles,521,1.4
+Ciencias Ambientales,PORTUGAL,Braganza,Instituto Politecnico de Braganza,4,10,NO,B1 Portugués,686,1
+Ciencias Ambientales,REPÚBLICA CHECA,Praga,Czech University of Life Sciences Prague,2,10,SI,B1 Ingles,253,88.3
+Ciencias Ambientales,SUECIA,Gotemburgo,University of Gothenburg (Goteborg University),2,10,SI,B2 Ingles,71,53.3
+Ciencias Ambientales,TURQUÍA,Elazig,Firat University,1,10,SI,B1 Ingles,502,83
+Ingles,ALEMANIA,Chemnitz,Technische Universitat Chemnitz,1,10,SI,C1 Ingles,686,1
+Ingles,ALEMANIA,Giessen,Justus Liebig Universität Giessen,1,10,SI,B1 Aleman,259,4.6
+Ingles,ALEMANIA,Colonia, Universität zu Köln,1,10,SI,B1 Aleman,100,40.8
+Ingles,ALEMANIA,Münster,Universitaät Münster,3,10,SI,C1 Ingles,116,25.4
+Ingles,AUSTRIA,Innsbruck,Franzens Universität Innsbruck,1,10,SI,B1 Aleman,144,10.6
+Ingles,BÉLGICA,Bruselas,Université Saint-Lous Bruxelles,2,10,SI,B1 Frances o B1 Ingles,670,10.8
+Ingles,BÉLGICA,Lovaina,Leuven University College (Katholieke Hogeschool Leuven),2,10,SI,B2 Ingles,28,10.8
+Ingles,ESLOVENIA,Liubliana,Univerza V Ljubljani (University Of Ljubljana),2,10,SI,B2 Ingles,221,55.9
+Ingles,FRANCIA,Angers,Universite Catholique de L`Ouest,2,10,SI,B2 Frances,686,1
+Ingles,FRANCIA,Burdeos,Université Michel de Montaigne Bordeaux 3,2,10,SI,B1 Frances,182,15.7
+Ingles,FRANCIA,Grenoble,Universite Stendhal-Grenoble III,4,10,SI,B1 Frances,125,28.6
+Ingles,FRANCIA,Valenciennes,Université de Valenciennes,4,10,SI,B1 Frances,686,1
+Ingles,HUNGRÍA,Gyor,Szechenyi Istvan University,1,10,SI,B1 Ingles,372,35.9
+Ingles,IRLANDA,Dublín, Dublin City University,2,10,SI,B2 Ingles,153,41.1
+Ingles,IRLANDA,Dublín,Trinity College Dublin,3,5,SI,B2 Ingles,26,19.4
+Ingles,IRLANDA,Galway,National University Galway (National Univeristy Of Ireland),4,10,SI,B2 Ingles,99,74.5
+Ingles,LETONIA,Riga, Baltijas Starptautiska Aklademija,1,10,SI,B1 Ingles,686,1
+Ingles,LITUANIA,Vilna,Vilnius University,2,10,SI,B2 Ingles,179,42.6
+Ingles,POLONIA,Bielsko-Biala,Univ. Bielsko Biala - Akademia Techniczno-Humanistyczna,3,10,SI,B1 Ingles,686,1
+Ingles,POLONIA,Katowice,Univ. Slaski W. Katowice,2,10,SI,B2 Ingles,463,2.8
+Ingles,POLONIA,Kielce, Jan Kochanowski University in Kielce,1,10,SI,B1 Ingles,560,1.4
+Ingles,POLONIA,Cracovia,AKADEMIA PEDAGOGICNA W KRAKOWIE,2,10,SI,B2 Ingles,355,61.3
+Ingles,POLONIA,Poznan,The University Of Adam Mickiewicz,1,10,SI,B1 Ingles,258,43.5
+Ingles,POLONIA,Varsovia, Warsaw University,2,10,SI,B2 Ingles,96,44.6
+Ingles,PORTUGAL,Lisboa,Universidade de Lisboa,2,10,SI,B1 Portugués,92,79.4
+Ingles,REINO UNIDO,Belfast,Queen'S University Belfast,2,10,SI,B2 Ingles,73,6
+Ingles,REINO UNIDO,Coventry,University Of Coventry,2,10,SI,B2 Ingles,190,4.6
+Ingles,REINO UNIDO,Exeter,University Of Exeter,2,10,SI,C1 Ingles,49,12.1
+Ingles,REINO UNIDO,Stirling,University of Stirling,4,10,SI,B2 Ingles,195,5.9
+Ingles,REPÚBLICA CHECA,Olomouc,Univerzita Palackeho V Olomouci,2,10,SI,B2 Ingles,214,47.5
+Ingles,REPÚBLICA CHECA,Praga,Metropolitan University Prague,1,10,SI,B2 Ingles,686,1
+Ingles,RUMANÍA,Bucarest,University Of Bucharest,2,10,SI,B1 Ingles,273,9.5
+Ingles,SUECIA,Gotemburgo,University of Gothenburg (Goteborg University),1,10,SI,B2 Ingles,71,53.3
+Ingles,SUECIA,Umea,Umea University,2,10,SI,B2 Ingles,185,58
+Ingles,SUIZA,Friburgo, Université de Fribourg,2,10,SI,B1 Frances o B1 Aleman,238,53.9
+Geografia,ALEMANIA,Aquisgrán,Universidad de Aachen (RWTH),2,10,SI,B1 Aleman,58,60.8
+Geografia,ESLOVAQUIA,Bratislava,Comenius University In Bratislava,2,10,SI,B2 Ingles,277,25.4
+Geografia,FRANCIA,Amiens,Université de Picardie Jules Verne,1,10,SI,B1 Frances,686,1
+Geografia,HUNGRÍA,Budapest,Obuda University,1,10,SI,B1 Ingles,486,33.9
+Geografia,ITALIA,Napoles,Universitá degli Studi di Napoli,1,10,NO,B1 Italiano,152,11.2
+Geografia,POLONIA,Varsovia, Warsaw University,2,10,SI,B2 Ingles,96,44.6
+Geografia,POLONIA,Zielona Gora,University Of Zielona Gora,1,10,SI,B1 Ingles,521,1.4
+Geografia,PORTUGAL,Braga,Universidade Do Minho,3,10,NO,B1 Portugués,248,9.8
+Geografia,PORTUGAL,Oporto,Universidade do Porto,2,10,NO,B2 Portugués,111,84.5
+Geografia,REPÚBLICA CHECA,Brno,Masaryk University,1,10,SI,B2 Ingles,143,63.5
+Geografia,RUMANÍA,Bucarest,University Of Bucharest,1,10,SI,B1 Ingles,273,9.5
+Geografia,RUMANÍA,Cluj-Napoca,"Universitatea ""Babes-Bolyai"" din Cluj-Napoca",1,10,SI,B2 Ingles,256,8.8
+Geografia,RUMANÍA,Suceava,"Universitatea ""Stefan Cel Mare"" Suceava",1,10,NO,B1 Ingles,576,5.7
+Historia,ALEMANIA,Bayreuth,Universität Bayreuth,2,10,SI,B2 Ingles o B2 Aleman,203,96.8
+Historia,ALEMANIA,Frankfurt (Oder),European University Viadrina,3,6,SI,B2 Ingles o B2 Aleman,554,4.6
+Historia,ALEMANIA,Colonia, Universität zu Köln,1,10,SI,B1 Aleman,100,40.8
+Historia,BÉLGICA,Liege,Universite de Liege,1,10,SI,B1 Frances,166,23.5
+Historia,FRANCIA,Burdeos,Université Michel de Montaigne Bordeaux 3,1,10,SI,B1 Frances,182,15.7
+Historia,FRANCIA,Grenoble,Universite Pierre Mendes France de Grenoble,1,10,SI,B2 Frances,125,28.6
+Historia,FRANCIA,Le Mans,Université du Maine,5,10,SI,B1 Frances,541,5.2
+Historia,FRANCIA,Poitiers,Université de Poitiers,2,10,SI,B1 Frances,439,5.2
+Historia,FRANCIA,Toulouse,Toulouse Le Mirail,1,10,SI,B1 Frances,428,5.2
+Historia,FRANCIA,Valenciennes,Université de Valenciennes,2,10,SI,B1 Frances,686,1
+Historia,IRLANDA,Limerick,University Of Limerick,1,10,SI,B2 Ingles,145,95.1
+Historia,ITALIA,Bolonia,Universidad de Bologna,1,10,NO,A2 Italiano,48,82.3
+Historia,ITALIA,Florencia,Universita Degli Studi di Firenze,2,10,SI,B1 Italiano  o B2 Ingles,147,70.3
+Historia,ITALIA,Lecce,Universidad de Salento (Lecce),1,10,NO,B1 Italiano,420,13.4
+Historia,ITALIA,Milan,Univ. Degli Studi di Milano,4,10,NO,B1 Italiano,113,26.7
+Historia,ITALIA,Caserta," Università degli Studi della Campania ""Luigi Vanvitelli"" ",2,10,NO,B1 Italiano,450,2.8
+Historia,ITALIA,Siena,Universitá Degli Studi di Siena,2,10,NO,A2 Italiano,280,91.9
+Historia,POLONIA,Breslavia,Uniwersytet Wroclawski,2,10,SI,B2 Ingles,308,39.6
+Historia,PORTUGAL,Braga,Universidade Do Minho,2,10,NO,B1 Portugués,248,9.8
+Historia,PORTUGAL,Coimbra,Universidad de Coimbra,2,10,NO,B1 Portugués,138,97.8
+Historia,PORTUGAL,Lisboa,Instituto unviersitario de Lisboa,1,10,NO,B2 Portugués,330,100
+Historia,PORTUGAL,Lisboa,Universidade de Lisboa,1,10,SI,B1 Portugués,92,79.4
+Historia,RUMANÍA,Cluj-Napoca,"Universitatea ""Babes-Bolyai"" din Cluj-Napoca",2,10,SI,B2 Ingles,256,8.8
+Historia,RUMANÍA,Sibiu,Universitatea Lucian Blaga din Sibiu,1,10,SI,B1 Ingles,566,10.9
+Historia del Arte,ALEMANIA,Bonn,Universitat Bonn,2,10,SI,B1 Aleman,77,29.6
+Historia del Arte,ALEMANIA,Giessen,Justus Liebig Universität Giessen,2,10,SI,B1 Aleman,259,4.6
+Historia del Arte,ALEMANIA,Heidelberg,Universität Heidelberg,4,10,SI,B1 Aleman,18,78.3
+Historia del Arte,ALEMANIA,Colonia, Universität zu Köln,1,10,SI,B1 Aleman,100,40.8
+Historia del Arte,BÉLGICA,Liege,Universite de Liege,2,10,SI,B1 Frances,166,23.5
+Historia del Arte,ESTONIA,Tallin,Estonian Academy Of Arts,1,10,SI,B1 Ingles,686,1
+Historia del Arte,FRANCIA,Dijon,Universite de Bourgogne,1,10,SI,B2 Frances,686,1
+Historia del Arte,FRANCIA,Grenoble,Universite Pierre Mendes France de Grenoble,1,10,SI,B2 Frances,125,28.6
+Historia del Arte,FRANCIA,Rennes, Haute Bretagne,1,10,SI,B2 Frances,664,5.2
+Historia del Arte,GRECIA,Patras, University of Patras,1,5,SI,B2 Ingles,303,7.7
+Historia del Arte,ITALIA,Cagliari,Universita Degli Studi di Cagliari,2,10,NO,A1 Italiano,686,1
+Historia del Arte,ITALIA,Florencia,Universita Degli Studi di Firenze,2,10,SI,B1 Italiano o B2 Ingles,147,70.3
+Historia del Arte,ITALIA,Lecce,Universidad de Salento (Lecce),2,10,NO,B1 Italiano,420,13.4
+Historia del Arte,ITALIA,Parma,Università Degli Studi di Parma,2,10,NO,A2 Italiano,369,21.6
+Historia del Arte,ITALIA,Perugia,Universidad de Perugia,2,10,NO,B1 Italiano,358,31.5
+Historia del Arte,ITALIA,Roma,"Universidad de Roma ""La Sapienza""",1,10,SI,B1 Italiano o B1 Ingles,66,53.8
+Historia del Arte,ITALIA,Teramo,Universitá degli Studi de Teramo,1,10,SI,B1 Italiano,686,1
+Historia del Arte,LETONIA,Riga,Latvian Academy Of Culture,1,10,SI,B2 Ingles,686,1
+Historia del Arte,POLONIA,Breslavia,Uniwersytet Wroclawski,3,10,SI,B2 Ingles,308,39.6
+Historia del Arte,PORTUGAL,Coimbra,Universidad de Coimbra,2,10,NO,B1 Portugués,138,97.8
+Historia del Arte,RUMANÍA,Cluj-Napoca,"Universitatea ""Babes-Bolyai"" din Cluj-Napoca",2,10,SI,B2 Ingles,256,8.8
+Lengua y Literatura,ALEMANIA,Bochum,Ruhr Universität Bochum,1,10,SI,B1 Aleman,178,12.1
+Lengua y Literatura,ALEMANIA,Bonn,Universitat Bonn,10,10,SI,A2 Aleman,77,29.6
+Lengua y Literatura,ALEMANIA,Duisburgo,Universidad de Duisburg-Essen,4,10,SI,B1 Aleman,272,4.6
+Lengua y Literatura,ALEMANIA,Giessen,Justus Liebig Universität Giessen,1,10,SI,B1 Aleman,259,4.6
+Lengua y Literatura,ALEMANIA,Gottingen,G.A.U. Gottingen,3,10,SI,B2 Aleman,82,4.6
+Lengua y Literatura,ALEMANIA,Colonia, Universität zu Köln,1,10,SI,B1 Aleman,100,40.8
+Lengua y Literatura,ALEMANIA,Leipzig,Universität Leipzig,1,10,SI,B2 Aleman,200,4.6
+Lengua y Literatura,ALEMANIA,Münster,Universitaät Münster,3,10,SI,B1 Ingles,116,25.4
+Lengua y Literatura,AUSTRIA,Innsbruck,Franzens Universität Innsbruck,1,10,SI,B1 Aleman,144,10.6
+Lengua y Literatura,BÉLGICA,Bruselas,Université Saint-Lous Bruxelles,2,10,SI,B1 Frances o B1 Ingles,670,10.8
+Lengua y Literatura,BÉLGICA,Lovaina,Leuven University College (Katholieke Hogeschool Leuven),2,10,SI,B2 Ingles,28,10.8
+Lengua y Literatura,BÉLGICA,Liege,Universite de Liege,1,10,SI,B1 Frances,166,23.5
+Lengua y Literatura,FRANCIA,Angers,Universite Catholique de L`Ouest,2,10,SI,B2 Frances,686,1
+Lengua y Literatura,FRANCIA,Pessac,Université Michel de Montaigne Bordeaux 3,2,10,SI,B1 Frances,182,15.7
+Lengua y Literatura,FRANCIA,Grenoble,Universite Stendhal-Grenoble III,4,10,SI,B1 Frances,125,28.6
+Lengua y Literatura,FRANCIA,Villeneuve d'Ascq,Universite Charles de Gaulle Lille 3,4,10,SI,B2 Frances,250,5.2
+Lengua y Literatura,FRANCIA,Toulouse,Toulouse Le Mirail,2,10,SI,B1 Frances,428,5.2
+Lengua y Literatura,FRANCIA,Valenciennes,Université de Valenciennes,4,10,SI,B1 Frances,449,18.7
+Lengua y Literatura,HUNGRÍA,Budapest,Eötvös Lorand Tudomanyegyetem ,3,10,SI,B2 Ingles,191,56.7
+Lengua y Literatura,HUNGRÍA,Gyor,Szechenyi Istvan University,1,10,SI,B1 Ingles,372,35.9
+Lengua y Literatura,IRLANDA,Dublín,Trinity College Dublin,2,10,SI,B2 Ingles,26,19.4
+Lengua y Literatura,IRLANDA,Maynooth, MAYNOOTH UNIVERSITY,2,10,SI,B1 Ingles,289,26
+Lengua y Literatura,ITALIA,Bari,Universita Degli Studi di Bari,3,10,NO,B1 Italiano,311,16.3
+Lengua y Literatura,ITALIA,Catania,Universita Degli Studi di Catania,2,10,NO,A2 Italiano,357,28.2
+Lengua y Literatura,ITALIA,Chieti,Universita Degli Studi di G. D'Annunzio Chieti,4,10,NO,A2 Italiano,469,8.5
+Lengua y Literatura,ITALIA,Lecce,Universidad de Salento (Lecce),2,10,NO,B1 Italiano,420,13.4
+Lengua y Literatura,ITALIA,Napoles,"Universitá Deglis Studi de Napoli ""L´Orientale""",2,10,NO,B1 Italiano,661,2.8
+Lengua y Literatura,ITALIA,Napoles," Università degli Studi della Campania ""Luigi Vanvitelli"" ",2,10,NO,B1 Italiano,450,2.8
+Lengua y Literatura,ITALIA,Padua,Universita Degli Studi di Padova,2,10,SI,A2 Italiano o B1 Ingles,87,75.2
+Lengua y Literatura,ITALIA,Roma,Terza Universita Degli Studi di Roma,2,10,SI,B1 Italiano,334,2.8
+Lengua y Literatura,ITALIA,Údine,Università Degli Studi di Udine,2,10,NO,A2 Italiano,427,11.9
+Lengua y Literatura,ITALIA,Venecia,Universita Ca Foscari Venezia,2,10,SI,B2 Italiano o B2 Ingles,205,80.8
+Lengua y Literatura,LETONIA,Riga, Baltijas Starptautiska Aklademija,1,10,SI,B1 Ingles,686,1
+Lengua y Literatura,LITUANIA,Vilna,Vilnius University,2,10,SI,B2 Ingles,179,42.6
+Lengua y Literatura,POLONIA,Gdansk,University Of Gdansk (Uniwersytet Gdanski),2,10,SI,B2 Ingles,332,18.9
+Lengua y Literatura,POLONIA,Gliwice,Politechnika Slaska ( Silesia University Of Technology),2,10,SI,B1 Ingles,426,21.4
+Lengua y Literatura,POLONIA,Katowice,Univ. Slaski W. Katowice,2,10,SI,B2 Ingles,463,2.8
+Lengua y Literatura,POLONIA,Cracovia,AKADEMIA PEDAGOGICNA W KRAKOWIE,2,10,SI,B2 Ingles,686,1
+Lengua y Literatura,POLONIA,Poznan,The University Of Adam Mickiewicz,1,10,SI,B1 Ingles,258,43.5
+Lengua y Literatura,PORTUGAL,Braga,Universidade Do Minho,2,10,NO,B1 Portugués,248,9.8
+Lengua y Literatura,PORTUGAL,Coimbra,Universidad de Coimbra,2,10,NO,B1 Portugués,138,97.8
+Lengua y Literatura,PORTUGAL,Évora,Universidade de Evora,1,10,SI,B1 Portugués,686,1
+Lengua y Literatura,PORTUGAL,Lisboa,Universidade de Lisboa,2,10,SI,B1 Portugués,92,79.4
+Lengua y Literatura,REPÚBLICA CHECA,Brno,Masaryk University,1,10,SI,B2 Ingles,143,63.5
+Lengua y Literatura,RUMANÍA,Bucarest,University Of Bucharest,2,10,SI,B1 Ingles,273,9.5
+Lengua y Literatura,RUMANÍA,Craiova,University Of Craiova,1,10,NO,Rumano o Español,666,1.8
+ADE,ALEMANIA,Augsburgo,Augsburg University Of Applied Sciences ,2,5,SI,B1 Aleman,686,1
+ADE,ALEMANIA,Deggendorf,Technische Hochschule Deggendorf Thd,2,10,SI,B1 Aleman,686,1
+ADE,ALEMANIA,Dresden,Hochschule Für Technik& Wirtschaft Dresden,2,10,SI,B1 Aleman o B1 Ingles,686,1
+ADE,ALEMANIA,Dresden,Tech. Univ. Dresden,2,10,SI,B2 Aleman,93,7.1
+ADE,ALEMANIA,Düsseldorf,Fachhochschule Düsseldorf ,2,10,SI,B1 Aleman,686,1
+ADE,ALEMANIA,Emden,Hochschule Emden/Leer ,10,5,SI,B2 Aleman o B1 Ingles,686,1
+ADE,ALEMANIA,Duisburgo, Universidad de Duisburg-Essen,4,10,SI,B1 Aleman,272,4.6
+ADE,ALEMANIA,Frankfurt (Oder),European University Viadrina ,1,5,SI,B2 Ingles o B2 Aleman,554,4.6
+ADE,ALEMANIA,Giessen,Justus Liebig Universität Giessen,2,10,SI,B1 Aleman,259,4.6
+ADE,ALEMANIA,Halle, Martin Luther Universität Halle-Wittenberg,2,10,SI,B2 Aleman,255,4.6
+ADE,ALEMANIA,Hanover,Leibniz Universität Hannover,3,10,SI,B2 Aleman,172,9.4
+ADE,ALEMANIA,Heilbronn,Hochschule Heilbronn,4,10,SI,B2 Aleman,686,1
+ADE,ALEMANIA,Kassel,Universität Kassel,4,10,SI,B2 Aleman,686,1
+ADE,ALEMANIA,Coblenza,Fachhochschule Koblenz,2,10,SI,B2 Ingles o B2 Aleman,686,1
+ADE,ALEMANIA,Colonia,Fachhochschule Köln (Cologne University Of Applied Sciences),1,10,SI,B1 Aleman,686,1
+ADE,ALEMANIA,Colonia, CBS Cologne Business School GmbH ,2,10,SI,B1 Ingles o B2 Aleman,686,1
+ADE,ALEMANIA,Mannheim, Hochschule der Wirtschaft für Management,2,10,SI,B1 Ingles,686,1
+ADE,ALEMANIA,Rosenheim, FH ROSSENHEIM,2,5,SI,B2 Aleman,686,1
+ADE,ALEMANIA,Schmalkalden,Fachhochschule Schmalkalden,2,10,SI,B1 Aleman,686,1
+ADE,ALEMANIA,Ulm,Universidad de Ulm (Ciencias Aplicadas),2,10,SI,B2 Aleman  o B2 Ingles,299,4.6
+ADE,ALEMANIA,Worms,Fachhochschule Worms,1,10,SI,B1 Aleman o B1 Ingles,686,1
+ADE,AUSTRIA,Krems,University Of Applied Sciences Krems,1,10,SI,B2 Ingles,686,1
+ADE,BÉLGICA,Gante,Artevelde University College Ghent,1,5,SI,B1 Ingles,686,1
+ADE,BÉLGICA,Namur,Haute Ecole Albert Jacquard,2,10,SI,B1 Frances,686,1
+ADE,BULGARIA,Stara Zagora, Trakia University Stara Zagora,2,5,SI,B1 Ingles,660,5.1
+ADE,BULGARIA,Varna, University of Economics-Varna,2,10,SI,B1 Ingles,686,1
+ADE,CHIPRE,Nicosia,American College,2,10,SI,B1 Ingles,686,1
+ADE,ESLOVENIA,Liubliana,Univerza V Ljubljani (University Of Ljubljana),2,10,SI,B2 Ingles,221,55.9
+ADE,FINLANDIA,Jyväskylä,University Of Jyväskylä,1,10,SI,B2 Ingles,206,56.3
+ADE,FRANCIA,Angers,Universite Catholique De L`Ouest,2,10,SI,B2 Frances,686,1
+ADE,FRANCIA,Pessac,Université Michel De Montaigne Bordeaux 3,2,10,SI,B1 Frances,182,15.7
+ADE,FRANCIA,Brest,Universite De Bretagne Occidentale,2,10,SI,B2 Frances,451,5.2
+ADE,FRANCIA,Dunkerque,Universite Du Littoral Côte D´Opale,2,10,SI,B1 Frances,663,5.2
+ADE,FRANCIA,Le Havre,Groupe Ecs Normandie (Le Havre),3,10,SI,B2 Ingles,686,1
+ADE,FRANCIA,Marsella,Universite D'Aix Marseille ,2,10,SI,B1 Frances,164,17.7
+ADE,FRANCIA,Niza,Universite De Nice -Sophia Antipolis (IAE),2,10,SI,B1 Frances,276,15
+ADE,FRANCIA,Orleans,Universidad de Orleans,4,10,SI,B2 Frances,511,5.2
+ADE,FRANCIA,Paris,Iut De L'Universite Paris-Nord Paris 13,4,10,SI,B1 Frances,342,5.2
+ADE,FRANCIA,Pau,Universite De Pau Et Des Pays De L'Adour,2,10,SI,B2 Frances,686,1
+ADE,FRANCIA,Pau,Ifsac/Groupe Esc Pau - Ecole Supérieure De Commerce,2,10,SI,B1 Frances,686,1
+ADE,FRANCIA,Poitiers,Université De Poitiers,4,10,SI,B1 Frances,439,5.2
+ADE,FRANCIA,Reims,University of Reims Champagne-Ardenne,2,10,SI,B1 Frances,686,1
+ADE,FRANCIA,Rouen,Universite De Rouen,2,10,SI,B2 Frances,686,1
+ADE,FRANCIA,Valenciennes,Université De Valenciennes,4,10,SI,B1 Frances,686,1
+ADE,HUNGRÍA,Debrecen, UNIVERSITY OF DEBRECEN,1,10,SI,B2 Ingles,223,18.7
+ADE,HUNGRÍA,Szeged,Szegedi Tudomanyegyetem,3,10,SI,B2 Ingles,229,12.6
+ADE,IRLANDA,Dundalk,Dundalk Institute of Technology,1,10,SI,B2 Ingles,686,1
+ADE,IRLANDA,Tralee,Institute of Technology. Tralee,1,10,SI,B2 Ingles,686,1
+ADE,ITALIA,Foggia,University of Foggia,2,10,NO, B1 Italiano,477,79.9
+ADE,ITALIA,Genova,Universita Degli Studi Di Genova,2,5,NO, B1 Italiano,227,56
+ADE,ITALIA,Lecce,Universidad de Salento (Lecce),1,10,NO, B1 Italiano,420,13.4
+ADE,ITALIA,Macerata,Universita Degli Studi Di Macerata,2,10,SI,B1 Italiano,583,2.8
+ADE,ITALIA,Milan,Universidad de Milan-Bicocca,3,10,SI,B1 Italiano,207,16.1
+ADE,ITALIA,Napoles," Universitá degli Studi di Napoli ""Parthenope""",2,10,NO, B1 Italiano,456,11.3
+ADE,ITALIA,Palermo,Universita Degli Studi Di Palermo,2,10,NO, B1 Italiano,337,26.4
+ADE,ITALIA,Pisa,Universita di Pisa,4,10,SI,B1 Italiano o B1 Ingles,137,62
+ADE,ITALIA,Roma,"Universita Degli Studi Di Roma ""Tor Vergata""",2,10,SI,B2 Ingles o B1 Italiano,168,68.3
+ADE,ITALIA,Roma,Terza Universita Degli Studi Di Roma,2,10,SI,B1 Italiano,334,2.8
+ADE,ITALIA,Roma,Universita Europea Di Roma,2,10,SI,B1 Italiano o B2 Ingles ,686,1
+ADE,ITALIA,Siena,Universitá Degli Studi Di Siena,3,10,NO, A2 Italiano,280,91.9
+ADE,ITALIA,Teramo,Universitá degli Studi de Teramo,3,10,SI,B1 Italiano,686,1
+ADE,ITALIA,Trento,Universitá degli Studi di Treno,1,10,SI,B2 Italiano o B2 Ingles,187,50.3
+ADE,ITALIA,Chieti,Universita Degli Studi di G. D'Annunzio Chieti,1,10,NO, B1 Italiano,469,8.5
+ADE,LITUANIA,Kaunas, Vytautas Magnus University,2,10,SI,B2 Ingles,270,88.4
+ADE,LITUANIA,Vilna,Vilnius Gediminas Technical University,1,10,SI,B2 Ingles,316,100
+ADE,PAÍSES BAJOS,Breda,Avans University (antes H. Den Bosch) ,4,5,SI,B2 Ingles,686,1
+ADE,POLONIA,Bielsko-Biala,Univ. Bielsko Biala - Akademia Techniczno-Humanistyczna,2,10,SI,B1 Ingles,686,1
+ADE,POLONIA,Katowice,Univ. Slaski W. Katowice,2,10,SI,B2 Ingles,463,2.8
+ADE,POLONIA,Katowice, University of Economics in Katowice,2,10,SI,B2 Ingles,686,1
+ADE,POLONIA,Kielce, Jan Kochanowski University in Kielce,1,10,SI,B1 Ingles,560,1.4
+ADE,POLONIA,Breslavia, Wroclaw University of Science and Technology,2,10,SI,B2 Ingles,346,24.5
+ADE,POLONIA,Breslavia, Wroclaw University of Economics and Business,8,10,SI,B2 Ingles,686,1
+ADE,PORTUGAL,Covilhã,Universidade da Beira Interior,3,10,NO, B1 Portugués o B1 Ingles,417,59
+ADE,PORTUGAL,Évora,Universidade de Evora,2,10,SI,B1 Portugués,686,1
+ADE,PORTUGAL,Guarda,Instituto Politecnico Guarda,4,10,NO, A2 Portugués,686,1
+ADE,PORTUGAL,Lisboa,Instituto unviersitario de Lisboa,2,10,NO, B2 Portugués,330,100
+ADE,PORTUGAL,Portalegre,Instituto Politecnico de Portoalegre,2,10,NO, B1 Portugués,686,1
+ADE,PORTUGAL,Oporto,Universidade do Porto,2,10,NO, B1 Portugués,111,84.5
+ADE,PORTUGAL,Oporto, Instituto Politecnico Porto,2,10,SI,B1 Portugués o B2 Ingles,686,1
+ADE,PORTUGAL,Santarém,Instituto Politecnico de Santarem,2,10,NO, B2 Portugués,686,1
+ADE,PORTUGAL,Viana do Castelo,Instituto Politecnico de Viana do Castelo,2,10,NO, B1 Portugués,686,1
+ADE,REINO UNIDO,Londres, Kingston University,1,10,SI,B1 Ingles,237,12.1
+ADE,REPÚBLICA CHECA,Zlín,Universita Tomase Bati Ve Zline,1,10,SI,B1 Ingles,448,29.1
+ADE,RUMANÍA,Bucarest,Scoala Nationala De Studii Politice Si Administrative,1,10,SI,B1 Ingles,686,1
+ADE,RUMANÍA,Cluj-Napoca,"Universitatea ""Babes-Bolyai"" din Cluj-Napoca",3,10,SI,B1 Ingles,256,8.8
+ADE,RUMANÍA,Oradea,Universitatea Din Oradea,3,10,SI,B1 Ingles,592,7
+ADE,RUMANÍA,Petrosani, University of Petrosani,1,10,SI,B1 Ingles,686,1
+ADE,SUIZA,Brugg, University of Applied Sciences Northwestern Switzerland,2,10,SI,B2 Ingles,478,42.8
+ADE,TURQUÍA,Eskisehir,Anadolu University,1,10,SI,B1 Ingles,487,3.6
+ADE,TURQUÍA,Estambul,T.C. Dogus Üniversites,2,10,SI,B1 Ingles,686,1
+ADE,TURQUÍA,Esmirna, Izmir Ekonomi Universitesi,2,10,NO, B1 Ingles,545,14.5
+Comercio Internacional,ALEMANIA,Deggendorf,Technische Hochschule Deggendorf Thd,2,10,SI,B1 Ingles,686,1
+Comercio Internacional,ALEMANIA,Emden,Hochschule Emden/Leer,10,5,SI,B2 Aleman o B1 Ingles,686,1
+Comercio Internacional,ALEMANIA,Gelsenkirchen,Fachhochschule Gelsenkirchen (Westfälische Hoschschule),3,10,SI,B2 Aleman,686,1
+Comercio Internacional,ALEMANIA,Hanover,Leibniz Universität Hannover,3,10,SI,B2 Ingles,172,9.4
+Comercio Internacional,ALEMANIA,Heilbronn,Hochschule Heilbronn,4,10,SI,B1 Ingles,686,1
+Comercio Internacional,ALEMANIA,Mittweida,Hochschule Mittweida-University of Applied Sciences,1,10,SI,B2 Aleman,686,1
+Comercio Internacional,ALEMANIA,Mülheim an der Ruhr,Hochschule Ruhr West- University Of Applied Sciences,2,10,SI,B1 Ingles,686,1
+Comercio Internacional,BÉLGICA,Gante,Artevelde University College Ghent,1,5,SI,B1 Ingles,47,48
+Comercio Internacional,FINLANDIA,Seinäjoki,Seinajoki University Of Applied Sciences,4,10,SI,B1 Ingles,686,1
+Comercio Internacional,FRANCIA,Fontainebleau,Esci Fontainebleau (Ecole Superieure De Commerce International),4,10,SI,B1 Ingles o B1 Frances,686,1
+Comercio Internacional,FRANCIA,Chambéry,Universite de Savoie,6,10,SI,B2 Frances o B2 Ingles,686,1
+Comercio Internacional,FRANCIA,Dijon,Universite de Bourgogne,2,10,SI,B2 Frances o B2 Ingles,686,1
+Comercio Internacional,FRANCIA,Villetaneuse,Iut De L'Universite Paris-Nord Paris 13,4,10,SI,B1 Ingles o B1 Frances,342,5.2
+Comercio Internacional,FRANCIA,Pau,Ifsac/Groupe Esc Pau - Ecole Supérieure De Commerce,2,10,SI,B1 Frances o B1 Ingles,686,1
+Comercio Internacional,FRANCIA,Reims,Neoma Business School,5,10,SI,B2 Frances o B2 Ingles,686,1
+Comercio Internacional,FRANCIA,Paris,Lycee/Heci Saint Louis,4,10,SI,B2 Ingles o B2 Frances,686,1
+Comercio Internacional,HUNGRÍA,Budapest,Eötvös Lorand Tudomanyegyetem ,2,10,SI,B2 Ingles,191,56.7
+Comercio Internacional,HUNGRÍA,Budapest,Budapest Business School,2,10,SI,B2 Ingles,686,1
+Comercio Internacional,HUNGRÍA,Debrecen, UNIVERSITY OF DEBRECEN,1,10,SI,B2 Ingles,223,18.7
+Comercio Internacional,IRLANDA,Tralee,Institute of Technology. Tralee,1,10,SI,B2 Ingles,686,1
+Comercio Internacional,ITALIA,Cagliari,Universita Degli Studi di Cagliari,5,10,NO,B1 Italiano,686,1
+Comercio Internacional,ITALIA,Roma,"Universita Degli Studi Di Roma ""Tor Vergata""",2,10,SI,B2 Ingles o B1 Italiano,168,68.3
+Comercio Internacional,ITALIA,Trieste,Universita Studi Di Trieste,2,10,SI,B1 Ingles,335,14.1
+Comercio Internacional,ITALIA,Verona,Universita Degli Studi Di Verona,3,5,SI,B1 Ingles o B1 Italiano,318,32
+Comercio Internacional,LITUANIA,Kaunas, Vytautas Magnus University,2,10,SI,B2 Ingles,270,88.4
+Comercio Internacional,PAÍSES BAJOS,Nimega,Radboud University Nijmegen,2,5,SI,C1 Ingles,121,14.8
+Comercio Internacional,PAÍSES BAJOS,Zwolle,Windesheim Univ Of Applied Sciences,1,10,SI,B2 Ingles,686,1
+Comercio Internacional,POLONIA,Katowice, University of Economics in Katowice,2,10,SI,B2 Ingles,686,1
+Comercio Internacional,POLONIA,Poznan,Poznan University Of Economics,5,10,SI,B2 Ingles,459,1.4
+Comercio Internacional,POLONIA,Breslavia, Wroclaw University of Science and Technology,2,10,SI,B2 Ingles,346,24.5
+Comercio Internacional,POLONIA,Breslavia, Wroclaw University of Economics and Business,4,10,SI,B2 Ingles,686,1
+Comercio Internacional,PORTUGAL,Braganza,Instituto Politecnico de Braganza,8,5,SI,B1 Ingles,686,1
+Comercio Internacional,PORTUGAL,Maia, Maieutica Cooperativa De Ensino Superior,2,10,NO,B1 Portugués,686,1
+Comercio Internacional,REINO UNIDO,Kingston, Kingston University,1,10,SI,B1 Ingles,237,12.1
+Comercio Internacional,SUIZA,Hamburgo, HOCHSCHULE FÜR ANGEWANDTE WISSENSCHAFTEN,2,10,SI,B2 Ingles,339,51.9
+Comercio Internacional,TURQUÍA,Estambul,T.C. Dogus Üniversites,2,10,SI,B1 Ingles,686,1
+Comercio Internacional,TURQUÍA,Esmirna, Izmir Ekonomi Universitesi,2,10,NO,B1 Ingles,545,14.5
+Economía,ALEMANIA,Deggendorf,Technische Hochschule Deggendorf Thd,2,10,SI,B1 Aleman,686,1
+Economía,ALEMANIA,Dresden,Hochschule Für Technik& Wirtschaft Dresden,2,10,SI,B1 Aleman o B1 Ingles,686,1
+Economía,ALEMANIA,Dresden,Tech. Univ. Dresden,2,10,SI,B2 Aleman,93,7.1
+Economía,ALEMANIA,Düsseldorf,Fachhochschule Düsseldorf,2,10,SI,B1 Aleman,292,4.6
+Economía,ALEMANIA,Frankfurt (Oder),European University Viadrina ,1,5,SI,B2 Ingles o B2 Aleman,554,4.6
+Economía,ALEMANIA,Giessen,Justus Liebig Universität Giessen,2,10,SI,B1 Aleman,259,4.6
+Economía,ALEMANIA,Kassel,Universität Kassel,4,10,SI,B2 Aleman,686,1
+Economía,ALEMANIA,Colonia,Fachhochschule Köln (Cologne University Of Applied Sciences),1,10,SI,B1 Aleman,100,40.8
+Economía,ALEMANIA,Schmalkalden,Fachhochschule Schmalkalden,2,10,SI,B1 Aleman,686,1
+Economía,BÉLGICA,Gante,Artevelde University College Ghent,1,5,SI,B1 Ingles,47,48
+Economía,BULGARIA,Stara Zagora,Trakia University Stara Zagora,2,5,SI,B1 Ingles,660,5.1
+Economía,ESLOVENIA,Liubliana,Univerza V Ljubljani (University Of Ljubljana),2,10,SI,B2 Ingles,221,55.9
+Economía,FRANCIA,Burdeos,Université Michel De Montaigne Bordeaux 3,2,10,SI,B1 Frances,182,15.7
+Economía,FRANCIA,Brest,Universite De Bretagne Occidentale,2,10,SI,B2 Frances,451,5.2
+Economía,FRANCIA,Niza,Universite De Nice -Sophia Antipolis (IAE),2,10,SI,B1 Frances,276,15
+Economía,FRANCIA,Orleans,Universidad de Orleans,4,10,SI,B2 Frances,511,5.2
+Economía,FRANCIA,Paris,Iut De L'Universite Paris-Nord Paris 13,4,10,SI,B1 Frances,342,5.2
+Economía,FRANCIA,Poitiers,Université De Poitiers,4,10,SI,B1 Frances,439,5.2
+Economía,FRANCIA,Reims,University of Reims Champagne-Ardenne,1,10,SI,B1 Frances,686,1
+Economía,FRANCIA,Valenciennes,Université De Valenciennes,4,10,SI,B1 Frances,449,18.7
+Economía,IRLANDA,Galway,National University Galway (National Univeristy of Ireland),2,10,SI,B2 Ingles,99,74.5
+Economía,ITALIA,Foggia,University of Foggia,2,10,NO,B1 Italiano,477,79.9
+Economía,ITALIA,Genova,Universita Degli Studi Di Genova,2,5,NO,B1 Italiano,227,56
+Economía,ITALIA,Milan,Universidad de Milan-Bicocca,3,10,SI,B1 Italiano,207,16.1
+Economía,ITALIA,Padua,Universita Degli Studi di Padova,2,10,SI,A2 Italiano o B1 Ingles,87,75.2
+Economía,ITALIA,Palermo,Universita Degli Studi Di Palermo,2,10,NO,B1 Italiano,337,26.4
+Economía,ITALIA,Pisa,Universita di Pisa,4,10,SI,B1 Italiano o B1 Ingles,137,62
+Economía,ITALIA,Roma,Terza Universita Degli Studi Di Roma,2,10,SI,B1 Italiano,334,2.8
+Economía,ITALIA,Siena,Universitá Degli Studi Di Siena,3,10,NO,A2 Italiano,280,91.9
+Economía,ITALIA,Teramo,Universitá degli Studi de Teramo,3,10,SI,B1 Italiano,686,1
+Economía,ITALIA,Trieste,Universita Studi Di Trieste,2,10,SI,B1 Ingles,335,14.1
+Economía,POLONIA,Kielce, Jan Kochanowski University in Kielce,1,10,SI,B1 Ingles,560,1.4
+Economía,PORTUGAL,Coimbra,Universidad de Coimbra,1,10,NO,B1 Portugués,138,97.8
+Economía,PORTUGAL,Covilhã,Universidade da Beira Interior,3,10,NO,B1 Portugués o B1 Ingles,417,59
+Economía,PORTUGAL,Évora,Universidade de Evora,2,10,SI,B1 Portugués,686,1
+Economía,PORTUGAL,Lisboa,Instituto unviersitario de Lisboa,2,10,NO,B2 Portugués,330,100
+Economía,PORTUGAL,Oporto,Universidade do Porto,2,10,NO,B1 Portugués,111,84.5
+Economía,PORTUGAL,Santarém,Instituto Politecnico de Santarem,2,10,NO,B2 Portugués,686,1
+Economía,PORTUGAL,Viana do Castelo,Instituto Politecnico de Viana do Castelo,2,10,NO,B1 Portugués,686,1
+Economía,TURQUÍA,Eskisehir,Anadolu University,1,10,SI,B1 Ingles,487,3.6
+Economía,TURQUÍA,Estambul,T.C. Dogus Üniversites,2,10,SI,B1 Ingles,686,1
+Economía,TURQUÍA,Esmirna, Izmir Ekonomi Universitesi,2,10,NO,B1 Ingles,545,14.5
+Finanzas,ALEMANIA,Deggendorf,Technische Hochschule Deggendorf Thd,2,10,SI,B1 Aleman,686,1
+Finanzas,ALEMANIA,Dresden,Hochschule Für Technik& Wirtschaft Dresden,2,10,NO,B1 Aleman o B1 Ingles,93,7.1
+Finanzas,ALEMANIA,Frankfurt (Oder),European University Viadrina,1,5,NO,B2 Ingles o B2 Aleman,554,4.6
+Finanzas,ALEMANIA,Giessen,Justus Liebig Universität Giessen,2,10,SI,B1 Aleman,259,4.6
+Finanzas,ALEMANIA,Halle,Martin Luther Universität Halle-Wittenberg,2,10,SI,B2 Aleman,255,4.6
+Finanzas,ALEMANIA,Hanover,Leibniz Universität Hannover,3,10,SI,B2 Aleman,172,9.4
+Finanzas,ALEMANIA,Heilbronn,Hochschule Heilbronn,4,10,SI,B2 Aleman,686,1
+Finanzas,ALEMANIA,Colonia,Fachhochschule Köln (Cologne University Of Applied Sciences),1,10,SI,B1 Aleman,100,40.8
+Finanzas,BÉLGICA,Namur,Haute Ecole Albert Jacquard,2,10,SI,B1 Frances,686,1
+Finanzas,FRANCIA,Burdeos,Université Michel De Montaigne Bordeaux 3,2,10,SI,B1 Frances,182,15.7
+Finanzas,FRANCIA,Brest,Universite De Bretagne Occidentale,2,10,SI,B2 Frances,451,5.2
+Finanzas,FRANCIA,Niza,Universite De Nice -Sophia Antipolis (IAE),2,10,SI,B1 Frances,276,15
+Finanzas,FRANCIA,Orleans,Universidad de Orleans,4,10,SI,B2 Frances,511,5.2
+Finanzas,FRANCIA,Paris,Iut De L'Universite Paris-Nord Paris 13,4,10,SI,B1 Frances,342,5.2
+Finanzas,FRANCIA,Pau,Ifsac/Groupe Esc Pau - Ecole Supérieure De Commerce,2,10,SI,B1 Frances,686,1
+Finanzas,FRANCIA,Poitiers,Université De Poitiers,4,10,SI,B1 Frances,439,5.2
+Finanzas,FRANCIA,Rouen,Universite De Rouen,2,10,SI,B2 Frances,686,1
+Finanzas,HUNGRÍA,Budapest,Eötvös Lorand Tudomanyegyetem ,2,10,SI,B2 Ingles,191,56.7
+Finanzas,IRLANDA,Dundalk,Dundalk Institute of Technology,1,10,SI,B2 Ingles,686,1
+Finanzas,ITALIA,Genova,Universita Degli Studi Di Genova,2,5,NO,B1 Italiano,227,56
+Finanzas,ITALIA,Lecce,Universidad de Salento (Lecce),1,10,NO,B1 Italiano,420,13.4
+Finanzas,ITALIA,Macerata,Universita Degli Studi Di Macerata,2,10,SI,B1 Italiano,583,2.8
+Finanzas,ITALIA,Milan,Universidad de Milan-Bicocca,3,10,SI,B1 Italiano,207,16.1
+Finanzas,ITALIA,Siena,Universitá Degli Studi Di Siena,3,10,NO,A2 Italiano,280,91.9
+Finanzas,LITUANIA,Vilna,Mykolo Romerio Universitetas (Mykolas Romeris University),1,10,SI,B2 Ingles,348,96.3
+Finanzas,POLONIA,Kielce, Jan Kochanowski University in Kielce,1,10,SI,B1 Ingles,560,1.4
+Finanzas,POLONIA,Breslavia, Wroclaw University of Economics and Business,8,10,SI,B2 Ingles,686,1
+Finanzas,PORTUGAL,Coimbra,Universidad de Coimbra,1,10,NO,B1 Portugués,138,97.8
+Finanzas,PORTUGAL,Lisboa,Instituto unviersitario de Lisboa,2,10,NO,B2 Portugués,330,100
+Finanzas,PORTUGAL,Oporto,Universidade do Porto,2,10,NO,B1 Portugués,111,84.5
+Finanzas,RUMANÍA,Petrosani, University of Petrosani,1,10,SI,B1 Ingles,686,1
+Finanzas,SUIZA,Windisch, University of Applied Sciences Northwestern Switzerland,2,10,SI,B2 Ingles,686,1
+Finanzas,TURQUÍA,Esmirna, Izmir Ekonomi Universitesi,2,10,NO,B1 Ingles,545,14.5
+Marketing,ALEMANIA,Deggendorf,Technische Hochschule Deggendorf Thd,2,10,SI,B1 Aleman,686,1
+Marketing,ALEMANIA,Dresden,Hochschule Für Technik& Wirtschaft Dresden,2,10,SI,B1 Aleman o B1 Ingles,93,7.1
+Marketing,ALEMANIA,Frankfurt (Oder),European University Viadrina ,1,5,SI,B2 Ingles o B2 Aleman,554,4.6
+Marketing,ALEMANIA,Krefeld,Hochschule Niederrhein,1,10,SI,B1 Aleman,686,1
+Marketing,ALEMANIA,Nordhausen,Fachhochschule Nordhausen,1,10,SI,B2 Aleman o B2 Ingles,686,1
+Marketing,ALEMANIA,Rosenheim, FH ROSSENHEIM ,2,5,SI,B2 Aleman,686,1
+Marketing,BÉLGICA,Lovaina,Leuven University College (Katholieke Hogeschool Leuven),2,5,SI,B2 Ingles,28,10.8
+Marketing,BÉLGICA,Namur,Haute Ecole Albert Jacquard,2,10,SI,B1 Frances,686,1
+Marketing,CHIPRE,Atenas,American College,2,10,SI,B1 Ingles,686,1
+Marketing,ESLOVENIA,Liubliana,Univerza V Ljubljani (University Of Ljubljana),2,10,SI,B2 Ingles,221,55.9
+Marketing,FRANCIA,Burdeos,Université Michel De Montaigne Bordeaux 3,2,10,SI,B1 Frances,182,15.7
+Marketing,FRANCIA,Brest,Universite De Bretagne Occidentale,2,10,SI,B2 Frances,451,5.2
+Marketing,FRANCIA,Niza,Universite De Nice -Sophia Antipolis (IAE),2,10,SI,B1 Frances,276,15
+Marketing,FRANCIA,Orleans,Universidad de Orleans,4,10,SI,B2 Frances,511,5.2
+Marketing,FRANCIA,Poitiers,Université De Poitiers,4,10,SI,B1 Frances,439,5.2
+Marketing,HUNGRÍA,Debrecen, UNIVERSITY OF DEBRECEN,1,10,SI,B2 Ingles,223,18.7
+Marketing,IRLANDA,Galway,National University Galway (National Univeristy of Ireland),2,10,SI,B2 Ingles,99,74.5
+Marketing,IRLANDA,Tralee,Institute of Technology. Tralee,1,10,SI,B2 Ingles,686,1
+Marketing,ITALIA,Pisa,Universita di Pisa,4,10,SI,B1 Italiano o B1 Ingles,137,62
+Marketing,ITALIA,Teramo,Universitá degli Studi de Teramo,3,10,SI,B1 Italiano,686,1
+Marketing,PAÍSES BAJOS,Bolduque, Avans University (antes H. Den Bosch) ,4,5,SI,B2 Ingles,686,1
+Marketing,PAÍSES BAJOS,Groninga, Hanze University Groningen,1,10,SI,B2 Ingles,686,1
+Marketing,POLONIA,Bielsko-Biala,Univ. Bielsko Biala - Akademia Techniczno-Humanistyczna,2,10,SI,B1 Ingles,686,1
+Marketing,POLONIA,Katowice, University of Economics in Katowice,2,10,SI,B2 Ingles,686,1
+Marketing,PORTUGAL,Covilhã,Universidade da Beira Interior,3,10,NO,B1 Portugués o B1 Ingles,417,59
+Marketing,PORTUGAL,Guarda,Instituto Politecnico Guarda,4,10,NO,A2 Portugués,686,1
+Marketing,PORTUGAL,Lisboa,Instituto unviersitario de Lisboa,2,10,NO,B2 Portugués,330,100
+Marketing,PORTUGAL,Portalegre,Instituto Politecnico de Portoalegre,2,10,NO,B1 Portugués,686,1
+Marketing,REINO UNIDO,Kingston, Kingston University,1,10,SI,B1 Ingles,237,12.1
+Marketing,REPÚBLICA CHECA,Zlín,Universita Tomase Bati Ve Zline,1,10,SI,B1 Ingles,447,29.1
+Turismo,ALEMANIA,Augsburgo,Augsburg University Of Applied Sciences,4,5,SI,B1 Aleman,686,1
+Turismo,ALEMANIA,Deggendorf,Technische Hochschule Deggendorf Thd,2,10,SI,B1 Aleman,686,1
+Turismo,ALEMANIA,Dresden,Hochschule Für Technik& Wirtschaft Dresden,2,10,SI,B1 Aleman o B1 Ingles,686,1
+Turismo,ALEMANIA,Dresden,Tech. Univ. Dresden,2,10,SI,B2 Aleman,93,7.1
+Turismo,ALEMANIA,Düsseldorf,Fachhochschule Düsseldorf,2,10,SI,B1 Aleman,686,1
+Turismo,ALEMANIA,Frankfurt (Oder),European University Viadrina ,1,5,SI,B2 Ingles o B2 Aleman,554,4.6
+Turismo,ALEMANIA,Heilbronn,Hochschule Heilbronn,4,10,SI,B2 Aleman,686,1
+Turismo,ALEMANIA,Mannheim, Hochschule der Wirtschaft für Management,2,10,SI,B1 Ingles,686,1
+Turismo,ALEMANIA,Worms,Fachhochschule Worms,1,10,SI,B1 Aleman o B1 Ingles,686,1
+Turismo,AUSTRIA,Krems,University Of Applied Sciences Krems,1,10,SI,B2 Ingles,686,1
+Turismo,CHIPRE,Atenas,American College,2,10,SI,B1 Ingles,686,1
+Turismo,FRANCIA,Angers,Universite Catholique De L`Ouest,2,10,SI,B2 Frances,686,1
+Turismo,FRANCIA,Chambéry,Universite de Savoie ,2,5,SI,B2 Frances o B1 Ingles,686,1
+Turismo,FRANCIA,Le Havre,Groupe Ecs Normandie (Le Havre),3,10,SI,B2 Ingles,686,1
+Turismo,FRANCIA,Paris,Iut De L'Universite Paris-Nord Paris 13,4,10,SI,B1 Frances,342,5.2
+Turismo,IRLANDA,Dundalk,Dundalk Institute of Technology,1,10,SI,B2 Ingles,686,1
+Turismo,ITALIA,Genova,Universita Degli Studi Di Genova ,2,5,NO,B1 Italiano,227,56
+Turismo,ITALIA,Lecce,Universidad de Salento (Lecce),1,10,NO,B1 Italiano,420,13.4
+Turismo,ITALIA,Macerata,Universita Degli Studi Di Macerata,2,10,SI,B1 Italiano,583,2.8
+Turismo,ITALIA,Milan,Universidad de Milan-Bicocca,3,10,SI,B1 Italiano,207,16.1
+Turismo,ITALIA,Napoles," Universitá degli Studi di Napoli ""Parthenope""",2,10,NO,B1 Italiano,456,11.3
+Turismo,ITALIA,Teramo,Universitá degli Studi de Teramo,3,10,SI,B1 Italiano,686,1
+Turismo,ITALIA,Varese,Universidad de Insubria,1,10,NO,B2 Italiano,686,1
+Turismo,LITUANIA,Kaunas,Kauno Kolegija/University of Applied Sciences,2,10,SI,B1 Ingles,686,1
+Turismo,PORTUGAL,Ponta Delgada, Universidade dos Açores,2,10,NO,B1 Portugués,686,1
+Turismo,PORTUGAL,Braganza,Instituto Politecnico de Braganza,8,5,NO,B1 Portugués,686,1
+Turismo,PORTUGAL,Castelo Branco,Instituto Politecnico de Castelo Branco,2,10,NO,B1 Portugués,686,1
+Turismo,PORTUGAL,Coimbra,Universidad de Coimbra,1,10,NO,B1 Portugués,138,97.8
+Turismo,PORTUGAL,Évora,Universidade de Evora,2,10,SI,B1 Portugués,686,1
+Turismo,PORTUGAL,Guarda,Instituto Politecnico Guarda,4,10,NO,A2 Portugués,686,1
+Turismo,PORTUGAL,Portalegre,Instituto Politecnico de Portoalegre,2,10,NO,B1 Portugués,686,1
+Turismo,RUMANÍA,Petrosani,University of Petrosani,1,10,SI,B1 Ingles,686,1
+RRLL Y RRHH,IRLANDA,Limerick,University Of Limerick,3,10,SI,B2 Ingles,145,95.1
+RRLL Y RRHH,ITALIA,Bolonia,Universidad de Bologna,2,10,NO,A2 Italiano,48,82.3
+RRLL Y RRHH,ITALIA,Foggia, University of Foggia,3,10,NO,B1 Italiano,477,79.9
+RRLL Y RRHH,ITALIA,Macerata,Universita Degli Studi Di Macerata,1,10,SI,B1 Italiano,583,2.8
+RRLL Y RRHH,ITALIA,Napoles,U. Degli Studi Di Napoli. Federico Ii,2,10,NO,B1 Italiano,151,11.2
+RRLL Y RRHH,ITALIA,Roma,"Universita Degli Studi Di Roma ""Tor Vergata""",2,10,NO,B1 Italiano,168,68.3
+RRLL Y RRHH,LETONIA,Riga,Baltijas Starptautiska Aklademija,1,10,SI,B1 Ingles,686,1
+RRLL Y RRHH,PORTUGAL,Braganza,Instituto Politecnico de Braganza,3,10,NO,B1 Portugués,686,1
+RRLL Y RRHH,PORTUGAL,Guarda,Instituto Politecnico Guarda,4,10,NO,A2 Portugués,686,1
+RRLL Y RRHH,PORTUGAL,Leiria,Politechnic Institute of Leiria,4,10,NO,B1 Portugués,686,1
+RRLL Y RRHH,PORTUGAL,Lisboa,Instituto unviersitario de Lisboa,1,10,NO,B2 Portugués,330,100
+Ingenieria Aeroespacial,ALEMANIA,Bremen,Hochschule Bremen,3,10,SI,B2 Aleman o B2 Ingles,232,20
+Ingenieria Aeroespacial,AUSTRIA,Graz,FH JOANNEUM. University of Applied Science,1,6,SI,B2 Ingles,623,10.6
+Ingenieria Aeroespacial,BULGARIA,Sofía, Technical University Sofia,2,10,SI,B1 Ingles,686,1
+Ingenieria Aeroespacial,FRANCIA,Saint-Quentin-en-Yvelines, Ecole Supérieure des Techniques Aéronautiques et de Construction Automobile,2,10,SI,B2 Frances,686,1
+Ingenieria Aeroespacial,FRANCIA,Poitiers,Ecole Nationale Supériere de Mecanique et Aerotechnique,2,10,SI,B2 Frances o B2 Ingles,686,1
+Ingenieria Aeroespacial,ITALIA,Bolonia,Universidad de Bologna,5,10,NO,A2 Italiano,48,82.3
+Ingenieria Aeroespacial,ITALIA,Napoles,U. Degli Studi Di Napoli. Federico II,2,10,NO,B1 Italiano,151,11.2
+Ingenieria Aeroespacial,ITALIA,Caserta," Università degli Studi della Campania ""Luigi Vanvitelli""",2,10,NO,B1 Italiano,450,2.8
+Ingenieria Aeroespacial,ITALIA,Padua,Universita Degli Studi di Padova,2,10,SI,A2 Italiano o B1 Ingles,87,75.2
+Ingenieria Aeroespacial,ITALIA,Roma,"Universidad de Roma ""La Sapienza""",2,10,SI,B1 Italiano o B1 Ingles,66,53.8
+Ingenieria Aeroespacial,LETONIA,Riga,TRANSPORT AND TELECOMMUNICATION INSTITUTE,1,10,SI,B1 Ingles,537,59.6
+Ingenieria Aeroespacial,LITUANIA,Vilna,Vilnius Gediminas Technical University,4,10,SI,B2 Ingles,316,100
+Ingenieria Aeroespacial,PORTUGAL,Oeiras, Universidade Atlântica,2,10,NO,B1 Portugués,686,1
+Ingenieria Aeroespacial,PORTUGAL,Oeiras, Universidade Atlântica,2,10,NO,B1 Portugués,686,1
+Ingenieria Aeroespacial,PORTUGAL,Covilhã,Universidade Da Beira Interior,5,10,NO,B1 Portugués,417,59
+Ingenieria Aeroespacial,REPÚBLICA CHECA,Brno,Brno University Of Technology,3,10,SI,B1 Ingles,225,53.7
+Ingenieria Aeroespacial,TURQUÍA,Esmirna,Izmir Ekonomi Universitesi,2,10,NO,B1 Ingles,545,14.5
+Ingenieria de Datos,ITALIA,Cagliari,Universita Degli Studi di Cagliari,2,6,SI,B1 Ingles o A2 Italiano,686,1
+Ingenieria de Datos,ITALIA,Florencia,Universita Degli Studi di Firenze,2,10,SI,B2 Ingles,147,70.3
+Ingenieria de Datos,ITALIA,Pavia,Universidad de Pavia,3,5,NO,B1 Ingles o B1 Italiano,197,34.5
+Ingenieria de Datos,ITALIA,Roma,Terza Universita Degli Studi Di Roma,2,10,NO,B1 Italiano,334,2.8
+Ingenieria de Datos,MALTA,Msida, University of Malta,2,10,SI,B2 Ingles,307,25.1
+Ingenieria de Datos,POLONIA,Lodz, Lodz Universtiy of Technology,3,10,SI,B2 Ingles,403,80.4
+Ingenieria de Datos,POLONIA,Breslavia, Wroclaw University of Science and Technology,2,5,SI,B2 Ingles,346,24.5
+Ingenieria de Datos,PORTUGAL,Oporto,Instituto Politecnico Porto,2,10,SI,B2 Portugués o B2 Ingles,111,84.5
+Ingenieria Electrica,ALEMANIA,Aquisgrán,Universidad de Aachen (RWTH) ,1,10,SI,B1 Aleman o B1 Ingles,58,60.8
+Ingenieria Electrica,ALEMANIA,Aquisgrán,Aachen University Of Applied Sciences,2,10,SI,B1 Aleman,686,1
+Ingenieria Electrica,ALEMANIA,Deggendorf,Technische Hochschule Deggendorf Thd ,2,10,SI,B1 Aleman,686,1
+Ingenieria Electrica,ALEMANIA,Emden,Hochschule Emden/Leer,1,10,SI,B1 Aleman o B1 Ingles,686,1
+Ingenieria Electrica,ALEMANIA,Frankfurt,Fachhochschule Frankfurt Am Main,2,5,SI,B2 Ingles,686,1
+Ingenieria Electrica,ALEMANIA,Kaiserslautern,Universität Kaiserslautern,2,10,SI,B1 Aleman,509,4.6
+Ingenieria Electrica,ALEMANIA,Colonia,Fachhochschule Köln (Cologne University Of Applied Sciences),1,10,SI,B1 Aleman,686,1
+Ingenieria Electrica,ALEMANIA,Mittweida, Hochschule Mittweida-University of Applied Sciences,1,10,SI,B2 Aleman,686,1
+Ingenieria Electrica,ALEMANIA,Mülheim an der Ruhr,Hochschule Ruhr West- University Of Applied Sciences,2,10,SI,B2 Aleman,686,1
+Ingenieria Electrica,ALEMANIA,Schmalkalden,Fachhochschule Schmalkalden,2,10,SI,B1 Aleman,686,1
+Ingenieria Electrica,ALEMANIA,Ulm,Universidad de Ulm (Ciencias Aplicadas),2,10,SI,B2 Aleman,299,4.6
+Ingenieria Electrica,BULGARIA,Ruse,Angel Kanchev University Of Ruse,2,10,SI,B1 Ingles,686,1
+Ingenieria Electrica,CROACIA,Zagreb, Zagreb University of Applied Sciences,1,10,SI,B2 Ingles,243,32.5
+Ingenieria Electrica,ESLOVENIA,Maribor,University Of Maribor,4,10,SI,B1 Ingles,338,91.8
+Ingenieria Electrica,FRANCIA,Poitiers, Université de Poitiers,2,10,SI,B1 Frances o B2 Ingles,439,5.2
+Ingenieria Electrica,ITALIA,Bolonia,Universidad de Bologna,5,10,NO,A2 Italiano,48,82.3
+Ingenieria Electrica,ITALIA,Genova, Universita Degli Studi Di Genova,4,10,NO,B1 Italiano,227,56
+Ingenieria Electrica,ITALIA,L'Aquila,University of L´Aquila,1,10,NO,B1 Italiano,582,13.1
+Ingenieria Electrica,ITALIA,Napoles,U. Degli Studi Di Napoli. Federico II,2,10,NO,B1 Italiano,151,11.2
+Ingenieria Electrica,ITALIA,Pavia,Universidad de Pavia,2,10,NO,B1 Italiano,197,34.5
+Ingenieria Electrica,ITALIA,Pisa,Universita di Pisa,2,10,SI,B1 Italiano o B2 Ingles,137,62
+Ingenieria Electrica,MALTA,Msida, University of Malta,2,10,SI,B2 Ingles,307,25.1
+Ingenieria Electrica,PAÍSES BAJOS,Eindhoven,Fontys Hogescholen (Eindhoven),3,10,SI,B2 Ingles ,686,1
+Ingenieria Electrica,POLONIA,Gliwice,Politechnika Slaska ( Silesia University Of Technology),1,10,SI,B1 Ingles,426,21.4
+Ingenieria Electrica,POLONIA,Lodz, Lodz Universtiy of Technology,4,10,SI,B2 Ingles,403,80.4
+Ingenieria Electrica,POLONIA,Nysa,Panstwow Wyzsza Szkola Zawodowa W Nysie,3,10,SI,B2 Ingles,686,1
+Ingenieria Electrica,POLONIA,Breslavia, Wroclaw University of Science and Technology,2,10,SI,B2 Ingles,346,24.5
+Ingenieria Electrica,PORTUGAL,Coimbra,Instituto Politecnico De Coimbra,2,10,NO,B1 Portugués,686,1
+Ingenieria Electrica,PORTUGAL,Évora,Universidade De Evora,3,10,SI,B1 Portugués,686,1
+Ingenieria Electrica,PORTUGAL,Faro,Universidade Do Algarve,2,10,SI,B1 Portugués,407,57.9
+Ingenieria Electrica,PORTUGAL,Leiria,Politechnic Institute of Leiria,2,10,NO,B1 Portugués,686,1
+Ingenieria Electrica,PORTUGAL,Portalegre,Instituto Politecnico de Portoalegre,1,10,NO,B1 Portugués,686,1
+Ingenieria Electrica,PORTUGAL,Vila Real,Universidade De Tras Os Montes E Alto Douro ,3,10,NO,B1 Portugués,531,9.8
+Ingenieria Electrica,REPÚBLICA CHECA,Ostrava,Vsb-Technicka Univerzita Ostrava,2,10,SI,B1 Ingles,382,42.6
+Ingenieria Electrica,TURQUÍA,Esmirna, Izmir Ekonomi Universitesi,2,10,NO,B1 Ingles,545,14.5
+Ingenieria Industrial,ALEMANIA,Aquisgrán,Aachen University Of Applied Sciences,2,10,SI,B1 Aleman,686,1
+Ingenieria Industrial,ALEMANIA,Deggendorf,Technische Hochschule Deggendorf Thd,2,10,SI,B1 Aleman,686,1
+Ingenieria Industrial,ALEMANIA,Frankfurt,Fachhochschule Frankfurt Am Main,2,5,SI,B2 Ingles,686,1
+Ingenieria Industrial,ALEMANIA,Mülheim an der Ruhr,Hochschule Ruhr West- University Of Applied Sciences,2,10,SI,B2 Aleman,686,1
+Ingenieria Industrial,ALEMANIA,Schmalkalden,Fachhochschule Schmalkalden,2,10,SI,B1 Aleman,686,1
+Ingenieria Industrial,ALEMANIA,Ulm,Universidad de Ulm (Ciencias Aplicadas),2,10,SI,B2 Aleman,299,4.6
+Ingenieria Industrial,BULGARIA,Ruse,Angel Kanchev University Of Ruse,2,10,SI,B1 Ingles,686,1
+Ingenieria Industrial,ESLOVENIA,Maribor,University Of Maribor,4,10,SI,B1 Ingles,338,91.8
+Ingenieria Industrial,FRANCIA,Dijon,Universite De Bourgogne,3,10,SI,B2 Frances,686,1
+Ingenieria Industrial,FRANCIA,Dunkerque,Universite Du Littoral Côte D´Opale,1,10,SI,B1 Frances,663,5.2
+Ingenieria Industrial,FRANCIA,Paris,IUT DE L'UNIVERSITE Paris-NORD Paris 13,1,10,SI,B1 Frances,342,5.2
+Ingenieria Industrial,FRANCIA,Paris,SORBONNE UNIVERSITY,1,10,SI,B1 Frances,31,15.2
+Ingenieria Industrial,FRANCIA,Poitiers,Université de Poitiers,2,10,SI,B1 Frances o B2 Ingles,439,5.2
+Ingenieria Industrial,FRANCIA,Toulouse,UNIVERSITE PAUL SABATIER. TOULOUSE III,3,10,SI,B2 Frances,233,5.2
+Ingenieria Industrial,ITALIA,Bolonia,Universidad de Bologna,5,10,NO,A2 Italiano,48,82.3
+Ingenieria Industrial,ITALIA,Florencia,Universita Degli Studi di Firenze,2,10,SI,B1 Italiano o B2 Ingles ,147,70.3
+Ingenieria Industrial,ITALIA,L'Aquila,University of L´Aquila,1,10,NO,B1 Italiano,582,13.1
+Ingenieria Industrial,ITALIA,Napoles,U. Degli Studi Di Napoli. Federico II,2,10,NO,B1 Italiano,151,11.2
+Ingenieria Industrial,ITALIA,Pavia,Universidad de Pavia,2,10,NO,B1 Italiano,197,34.5
+Ingenieria Industrial,ITALIA,Perugia,Universidad de Perugia,4,10,NO,B1 Italiano,358,31.5
+Ingenieria Industrial,ITALIA,Pisa,Universita di Pisa,2,10,SI,B1 Italiano o B2 Ingles,137,62
+Ingenieria Industrial,ITALIA,Roma,Terza Universita Degli Studi Di Roma,1,10,SI,B1 Italiano,334,2.8
+Ingenieria Industrial,LETONIA,Riga,TRANSPORT AND TELECOMMUNICATION INSTITUTE,1,10,SI,B1 Ingles,537,59.6
+Ingenieria Industrial,MALTA,Msida,University of Malta,2,10,SI,B2 Ingles,307,25.1
+Ingenieria Industrial,PAÍSES BAJOS,Eindhoven,Fontys Hogescholen (Eindhoven),3,10,SI,B2 Ingles,686,1
+Ingenieria Industrial,POLONIA,Lodz,Lodz Universtiy of Technology,4,10,SI,B2 Ingles,403,80.4
+Ingenieria Industrial,POLONIA,Opole,Opole University Of Technology,1,10,SI,B2 Ingles,686,1
+Ingenieria Industrial,PORTUGAL,Aveiro,Universidad de Aveiro,3,10,NO,B1 Portugués,216,63.7
+Ingenieria Industrial,PORTUGAL,Braga,Universidade Do Minho,2,10,NO,B1 Portugués,248,9.8
+Ingenieria Industrial,PORTUGAL,Coimbra,Instituto Politecnico De Coimbra,2,10,NO,B1 Portugués,686,1
+Ingenieria Industrial,PORTUGAL,Évora,Universidade De Evora,3,10,SI,B1 Portugués,686,1
+Ingenieria Industrial,PORTUGAL,Faro,Universidade Do Algarve,2,10,SI,B1 Portugués,407,57.9
+Ingenieria Industrial,PORTUGAL,Leiria,Politechnic Institute of Leiria,2,10,NO,B1 Portugués,686,1
+Ingenieria Industrial,PORTUGAL,Oporto,Instituto Politecnico Porto,3,10,SI,B1 Portugués o B2 Ingles,686,1
+Ingenieria Industrial,PORTUGAL,Setúbal,Instituto Politecnico De Setúbal,6,10,NO,B1 Portugués,686,1
+Ingenieria Industrial,REPÚBLICA CHECA,Brno,Brno University Of Technology,3,10,SI,B1 Ingles,225,53.7
+Ingenieria Industrial,REPÚBLICA CHECA,Ostrava,Vsb-Technicka Univerzita Ostrava,2,10,SI,B1 Ingles,382,42.6
+Ingenieria Industrial,TURQUÍA,Esmirna,Izmir Ekonomi Universitesi,2,10,NO,B1 Ingles,545,14.5
+Ingenieria Informatica,ALEMANIA,Aquisgrán,Universidad de Aachen (RWTH),3,10,SI,B1 Aleman o B1 Ingles,58,60.8
+Ingenieria Informatica,ALEMANIA,Aquisgrán,Aachen University Of Applied Sciences,2,10,SI,B1 Aleman,686,1
+Ingenieria Informatica,ALEMANIA,Emden,Hochschule Emden/Leer,1,10,SI,B1 Aleman o B1 Ingles,686,1
+Ingenieria Informatica,ALEMANIA,Frankfurt,Fachhochschule Frankfurt Am Main,2,5,SI,B2 Ingles,686,1
+Ingenieria Informatica,ALEMANIA,Colonia,Fachhochschule Köln (Cologne University Of Applied Sciences),1,10,SI,B1 Aleman,686,1
+Ingenieria Informatica,ALEMANIA,Mittweida,Hochschule Mittweida-University of Applied Sciences,1,10,SI,B2 Aleman,686,1
+Ingenieria Informatica,ALEMANIA,Mülheim an der Ruhr,Hochschule Ruhr West- University Of Applied Sciences,2,10,SI,B2 Aleman,686,1
+Ingenieria Informatica,ALEMANIA,Schmalkalden,Fachhochschule Schmalkalden,2,10,SI,B1 Aleman,686,1
+Ingenieria Informatica,ALEMANIA,Ulm,Universidad de Ulm (Ciencias Aplicadas),2,10,SI,B2 Aleman,299,4.6
+Ingenieria Informatica,CROACIA,Zagreb, Zagreb University of Applied Sciences,1,10,SI,B2 Ingles,243,32.5
+Ingenieria Informatica,ESLOVENIA,Maribor,University Of Maribor,4,10,SI,B1 Ingles,338,91.8
+Ingenieria Informatica,FRANCIA,Burdeos,Université de Bordeaux,3,10,SI,B1 Ingles o B1 Frances,182,15.7
+Ingenieria Informatica,FRANCIA,Dunkerque,Universite Du Littoral Côte D´Opale,1,10,SI,B1 Frances,663,5.2
+Ingenieria Informatica,FRANCIA,Villetaneuse,IUT DE L'UNIVERSITE Paris-NORD Paris 13,1,10,SI,B1 Frances,342,5.2
+Ingenieria Informatica,FRANCIA,Poitiers, Université de Poitiers,2,10,SI,B1 Frances o B2 Ingles,439,5.2
+Ingenieria Informatica,FRANCIA,Toulouse,UNIVERSITE PAUL SABATIER. TOULOUSE III,3,10,SI,B2 Frances,233,5.2
+Ingenieria Informatica,HUNGRÍA,Budapest,Budapest University Of Technology And Economics,1,10,SI,B2 Ingles,247,82.5
+Ingenieria Informatica,HUNGRÍA,Budapest,OBUDA UNIVERSITY,1,10,SI,B1 Ingles,486,33.9
+Ingenieria Informatica,IRLANDA,Carlow,Institue of Technology,2,10,SI,B2 Ingles,686,1
+Ingenieria Informatica,ITALIA,Bolonia,Universidad de Bologna,5,10,NO,A2 Italiano,48,82.3
+Ingenieria Informatica,ITALIA,Cagliari,Universita Degli Studi di Cagliari,2,10,NO,A2 Italiano,686,1
+Ingenieria Informatica,ITALIA,Campobasso,Universita degli Studi del Molise,2,10,NO,A2 Italiano,686,1
+Ingenieria Informatica,ITALIA,Florencia,Universita Degli Studi di Firenze,4,10,SI,B1 Italiano o B2 Ingles,147,70.3
+Ingenieria Informatica,ITALIA,L'Aquila,University of L´Aquila,1,10,NO,B1 Italiano,582,13.1
+Ingenieria Informatica,ITALIA,Lecce,Universidad de Salento (Lecce),2,10,NO,B1 Italiano,420,13.4
+Ingenieria Informatica,ITALIA,Napoles,U. Degli Studi Di Napoli. Federico II,2,10,NO,B1 Italiano,151,11.2
+Ingenieria Informatica,ITALIA,Pavia,Universidad de Pavia,2,10,NO,B1 Italiano,197,34.5
+Ingenieria Informatica,ITALIA,Perugia,Universidad de Perugia,4,10,NO,B1 Italiano,358,31.5
+Ingenieria Informatica,ITALIA,Varese,Universidad de Insubria,2,10,NO,B2 Italiano,465,11
+Ingenieria Informatica,ITALIA,Roma,Terza Universita Degli Studi Di Roma,2,10,SI,B1 Italiano,334,2.8
+Ingenieria Informatica,LETONIA,Riga,TRANSPORT AND TELECOMMUNICATION INSTITUTE,1,10,SI,B1 Ingles,537,59.6
+Ingenieria Informatica,MALTA,Msida, University of Malta,2,10,SI,B2 Ingles,307,25.1
+Ingenieria Informatica,PAÍSES BAJOS,Eindhoven,Fontys Hogescholen (Eindhoven),3,10,SI,B2 Ingles,686,1
+Ingenieria Informatica,POLONIA,Cracovia,Politechnika Krakowska,5,10,SI,B1 Ingles,355,61.3
+Ingenieria Informatica,POLONIA,Lodz,Lodz Universtiy of Technology,4,10,SI,B2 Ingles,403,80.4
+Ingenieria Informatica,POLONIA,Nysa,Panstwow Wyzsza Szkola Zawodowa W Nysie,3,10,SI,B2 Ingles,686,1
+Ingenieria Informatica,POLONIA,Opole,Opole University Of Technology,1,10,SI,B2 Ingles,590,16.4
+Ingenieria Informatica,POLONIA,Varsovia,Politechnika Warszawska / Warsaw University Of Technology,2,10,SI,B2 Ingles,208,38.1
+Ingenieria Informatica,PORTUGAL,Barcarena,Universidade Atlântica,1,10,NO,B1 Portugués,686,1
+Ingenieria Informatica,PORTUGAL,Aveiro,Universidad de Aveiro,3,10,NO,B1 Portugués,216,63.7
+Ingenieria Informatica,PORTUGAL,Barcarena,Universidade Atlântica,1,10,NO,B1 Portugués,686,1
+Ingenieria Informatica,PORTUGAL,Braga,Universidade Do Minho,2,10,NO,B1 Portugués,248,9.8
+Ingenieria Informatica,PORTUGAL,Braganza,Instituto Politecnico de Braganza,2,10,NO,B1 Portugués,686,1
+Ingenieria Informatica,PORTUGAL,Coimbra,Universidad de Coimbra,2,10,NO,B1 Portugués,138,97.8
+Ingenieria Informatica,PORTUGAL,Coimbra,Instituto Politecnico De Coimbra,2,10,NO,B1 Portugués,686,1
+Ingenieria Informatica,PORTUGAL,Évora,Universidade De Evora,3,10,SI,B1 Portugués,686,1
+Ingenieria Informatica,PORTUGAL,Faro,Universidade Do Algarve,2,10,SI,B1 Portugués,407,57.9
+Ingenieria Informatica,PORTUGAL,Guarda,Instituto Politecnico Guarda,2,10,NO,A2 Portugués,686,1
+Ingenieria Informatica,PORTUGAL,Leiria,Politechnic Institute of Leiria,2,10,NO,B1 Portugués,686,1
+Ingenieria Informatica,PORTUGAL,Oporto,Instituto Politecnico Porto,3,10,SI,B1 Portugués o B2 Ingles,686,1
+Ingenieria Informatica,PORTUGAL,Setúbal,Instituto Politecnico De Setúbal,6,10,NO,B1 Portugués,686,1
+Ingenieria Informatica,REPÚBLICA CHECA,Hradec Králové,University Of Hradec Kralove,1,10,SI,B1 Ingles,405,100
+Ingenieria Informatica,REPÚBLICA CHECA,Pardubice,Univerzita Pardubice,3,10,SI,B1 Ingles,480,49.8
+Ingenieria Informatica,TURQUÍA,Estambul,Yildiz Technical University,2,10,SI,B1 Ingles,293,16.3
+Ingenieria Informatica,TURQUÍA,Esmirna,Izmir Ekonomi Universitesi,2,10,NO,B1 Ingles,545,14.5
+Ingenieria Mecanica,ALEMANIA,Aquisgrán,Universidad de Aachen (RWTH),1,10,SI,B1 Aleman o B1 Ingles,58,60.8
+Ingenieria Mecanica,ALEMANIA,Aquisgrán,Aachen University Of Applied Sciences,2,10,SI,B1 Aleman,686,1
+Ingenieria Mecanica,ALEMANIA,Deggendorf,Technische Hochschule Deggendorf Thd,2,10,SI,B1 Aleman,686,1
+Ingenieria Mecanica,ALEMANIA,Emden,Hochschule Emden/Leer,1,10,SI,B1 Aleman o B1 Ingles,686,1
+Ingenieria Mecanica,ALEMANIA,Frankfurt,Fachhochschule Frankfurt Am Main,2,5,SI,B2 Ingles,686,1
+Ingenieria Mecanica,ALEMANIA,Kaiserslautern,Universität Kaiserslautern,2,10,SI,B1 Aleman,509,4.6
+Ingenieria Mecanica,ALEMANIA,Colonia,Fachhochschule Köln (Cologne University Of Applied Sciences),1,10,SI,B1 Aleman,686,1
+Ingenieria Mecanica,ALEMANIA,Mittweida,Hochschule Mittweida-University of Applied Sciences,1,10,SI,B2 Aleman,686,1
+Ingenieria Mecanica,ALEMANIA,Mülheim an der Ruhr,Hochschule Ruhr West- University Of Applied Sciences,2,10,SI,B2 Aleman,686,1
+Ingenieria Mecanica,ALEMANIA,Schmalkalden,Fachhochschule Schmalkalden,2,10,SI,B1 Aleman,686,1
+Ingenieria Mecanica,ALEMANIA,Ulm,Universidad de Ulm (Ciencias Aplicadas),2,10,SI,B2 Aleman,299,4.6
+Ingenieria Mecanica,BULGARIA,Ruse,Angel Kanchev University Of Ruse,2,10,SI,B1 Ingles,686,1
+Ingenieria Mecanica,CROACIA,Zagreb,Zagreb University of Applied Sciences,1,10,SI,B2 Ingles,686,1
+Ingenieria Mecanica,ESLOVENIA,Maribor,University Of Maribor,3,10,SI,B1 Ingles,338,91.8
+Ingenieria Mecanica,FRANCIA,Burdeos,Université de Bordeaux,3,10,SI,B1 Ingles o B1 Frances,182,15.7
+Ingenieria Mecanica,FRANCIA,Dijon,Universite De Bourgogne,3,10,SI,B2 Frances,686,1
+Ingenieria Mecanica,FRANCIA,Paris,IUT DE L'UNIVERSITE Paris-NORD Paris 13,1,10,SI,B1 Frances,342,5.2
+Ingenieria Mecanica,FRANCIA,Paris,SORBONNE UNIVERSITY,1,10,SI,B1 Frances,31,15.2
+Ingenieria Mecanica,FRANCIA,Poitiers,Université de Poitiers,2,10,SI,B1 Frances o B2 Ingles,439,5.2
+Ingenieria Mecanica,FRANCIA,Toulouse,UNIVERSITE PAUL SABATIER. TOULOUSE III,3,10,SI,B2 Frances,233,5.2
+Ingenieria Mecanica,HUNGRÍA,Budapest,Budapest University Of Technology And Economics,2,10,SI,B2 Ingles,247,82.5
+Ingenieria Mecanica,HUNGRÍA,Gyor,Szechenyi Istvan University,3,10,SI,B1 Ingles,372,35.9
+Ingenieria Mecanica,ITALIA,Bolonia,Universidad de Bologna,5,10,NO,A2 Italiano,48,82.3
+Ingenieria Mecanica,ITALIA,Cagliari,Universita Degli Studi di Cagliari,4,10,NO,A2 Italiano,686,1
+Ingenieria Mecanica,ITALIA,Ferrara,Universita Degli Studi Di Ferrara,2,10,NO,B1 Italiano,386,14.5
+Ingenieria Mecanica,ITALIA,Florencia,Universita Degli Studi di Firenze,2,10,NO,B1 Italiano o B2 Ingles,147,70.3
+Ingenieria Mecanica,ITALIA,L'Aquila,University of L´Aquila,1,10,NO,B1 Italiano,582,13.1
+Ingenieria Mecanica,ITALIA,Lecce,Universidad de Salento (Lecce),2,10,NO,B1 Italiano,420,13.4
+Ingenieria Mecanica,ITALIA,Napoles,U. Degli Studi Di Napoli. Federico II,2,10,NO,B1 Italiano,151,11.2
+Ingenieria Mecanica,ITALIA,Pavia,Universidad de Pavia,2,10,NO,B1 Italiano,197,34.5
+Ingenieria Mecanica,ITALIA,Perugia,Universidad de Perugia,4,10,NO,B1 Italiano,358,31.5
+Ingenieria Mecanica,ITALIA,Pisa,Universita di Pisa,2,10,SI,B1 Italiano o B2 Ingles,137,62
+Ingenieria Mecanica,ITALIA,Salerno,Universitá Degli Studi Di Salerno,2,10,NO,A2 Italiano,315,44.5
+Ingenieria Mecanica,ITALIA,Roma,Terza Universita Degli Studi Di Roma,2,10,SI,B1 Italiano,334,2.8
+Ingenieria Mecanica,LITUANIA,Kaunas,Kaunas University Of Technology,3,10,SI,B2 Ingles,257,83.4
+Ingenieria Mecanica,LITUANIA,Vilna,Vilnius Gediminas Technical University,4,10,SI,B2 Ingles,316,100
+Ingenieria Mecanica,PAÍSES BAJOS,Eindhoven,Fontys Hogescholen (Eindhoven),3,10,SI,B2 Ingles ,686,1
+Ingenieria Mecanica,POLONIA,Gliwice,Politechnika Slaska ( Silesia University Of Technology),1,10,SI,B1 Ingles,426,21.4
+Ingenieria Mecanica,POLONIA,Lodz,Lodz Universtiy of Technology,4,10,SI,B2 Ingles,403,80.4
+Ingenieria Mecanica,POLONIA,Nysa,Panstwow Wyzsza Szkola Zawodowa W Nysie,3,10,SI,B2 Ingles,686,1
+Ingenieria Mecanica,POLONIA,Opole,Opole University Of Technology,1,10,SI,B2 Ingles,686,1
+Ingenieria Mecanica,POLONIA,Varsovia,Politechnika Warszawska / Warsaw University Of Technology,2,10,SI,B2 Ingles,208,38.1
+Ingenieria Mecanica,PORTUGAL,Oeiras,Universidade Atlântica,1,10,NO,B1 Portugués,686,1
+Ingenieria Mecanica,PORTUGAL,Oeiras,Universidade Atlântica,1,10,NO,B1 Portugués,686,1
+Ingenieria Mecanica,PORTUGAL,Guimarães,Universidade Do Minho,2,10,NO,B1 Portugués,248,9.8
+Ingenieria Mecanica,PORTUGAL,Coimbra,Instituto Politecnico De Coimbra,2,10,NO,B1 Portugués,686,1
+Ingenieria Mecanica,PORTUGAL,Évora,Universidade De Evora,3,10,SI,B1 Portugués,686,1
+Ingenieria Mecanica,PORTUGAL,Faro,Universidade Do Algarve,2,10,SI,B1 Portugués,407,57.9
+Ingenieria Mecanica,PORTUGAL,Guarda,Instituto Politecnico Guarda,2,10,NO,A2 Portugués,686,1
+Ingenieria Mecanica,PORTUGAL,Leiria,Politechnic Institute of Leiria,2,10,NO,B1 Portugués,686,1
+Ingenieria Mecanica,PORTUGAL,Oporto,Instituto Politecnico Porto,3,10,SI,B1 Portugués o B2 Ingles,686,1
+Ingenieria Mecanica,PORTUGAL,Setúbal,Instituto Politecnico De Setúbal,6,10,NO,B1 Portugués,686,1
+Ingenieria Mecanica,PORTUGAL,Vila Real,Universidade De Tras Os Montes E Alto Douro,2,10,NO,B1 Portugués,531,9.8
+Ingenieria Mecanica,REINO UNIDO,Loughborough,Loughborough University,1,10,SI,B2 Ingles,85,6.6
+Ingenieria Mecanica,REPÚBLICA CHECA,Brno,Brno University Of Technology,3,10,SI,B1 Ingles,225,53.7
+Ingenieria Mecanica,REPÚBLICA CHECA,Ostrava,Vsb-Technicka Univerzita Ostrava,2,10,SI,B1 Ingles,382,42.6
+Ingenieria Mecanica,RUMANÍA,Cluj-Napoca,Technical University Of Cluj-Napoca,2,10,SI,B1 Ingles,508,9
+Topografia,ESLOVAQUIA,Bratislava,Slovak University Of Technology,2,10,SI,B1 Ingles,387,25.6
+Topografia,FRANCIA,Beauvais, UniLasalle,1,10,SI,B2 Ingles o B2 Frances,686,1
+Topografia,LITUANIA,Vilna,Vilnius Gediminas Technical University,1,10,SI,B2 Ingles,316,100
+Topografia,POLONIA,Cracovia,AGH University,2,10,SI,B1 Ingles,328,27.2
+Topografia,PORTUGAL,Guarda,Instituto Politecnico Guarda,2,10,NO,A2 Portugués,686,1
+Topografia,RUMANÍA,Petrosani,University of Petrosani,1,10,SI,B1 Ingles,686,1
+Ingenieria de la Energia,ALEMANIA,Munich,Technische Universität München,1,5,SI,B1 Aleman,11,75.3
+Ingenieria de la Energia,AUSTRIA,Leoben,Montanuniversität Leoben,3,10,SI,B2 Ingles o B2 Aleman ,686,1
+Ingenieria de la Energia,ESLOVAQUIA,Bratislava,Slovak University Of Technology,2,10,SI,B1 Ingles,387,25.6
+Ingenieria de la Energia,ITALIA,Perugia,Universidad de Perugia,7,10,NO,B1 Italiano,358,31.5
+Ingenieria de la Energia,ITALIA,Genova,Universita Degli Studi di Genova,4,10,NO,B1 Italiano,227,56
+Ingenieria de la Energia,POLONIA,Gliwice,Politechnika Slaska ( Silesia University Of Technology),4,10,SI,B1 Ingles,426,21.4
+Ingenieria de la Energia,REINO UNIDO,Inverness,Inverness College,2,5,SI,B2 Ingles,686,1
+Ingenieria Minera,ALEMANIA,Freiberg,Tu Bergakademie Freiberg,2,10,SI,B1 Aleman,361,11.1
+Ingenieria Minera,AUSTRIA,Leoben,Montanuniversität Leoben,3,10,SI,B2 Ingles o B2 Aleman,686,1
+Ingenieria Minera,ESLOVAQUIA,Bratislava,Slovak University Of Technology,2,10,SI,B1 Ingles,387,25.6
+Ingenieria Minera,ITALIA,Napoles,U. Degli Studi Di Napoli. Federico II,2,10,NO,B1 Italiano,151,11.2
+Ingenieria Minera,ITALIA,Perugia,Universidad de Perugia,7,10,NO,B1 Italiano,358,31.5
+Ingenieria Minera,ITALIA,Genova,Universita Degli Studi di Genova,4,10,NO,B1 Italiano,227,56
+Ingenieria Minera,POLONIA,Gliwice,Politechnika Slaska ( Silesia University Of Technology),4,10,SI,B1 Ingles,426,21.4
+Ingenieria Minera,PORTUGAL,Oporto,Universidade do Porto,2,5,NO,B1 Portugués,111,84.5
+Ingenieria Minera,REPÚBLICA CHECA,Ostrava,Vsb-Technicka Univerzita Ostrava,2,10,SI,B1 Ingles,382,42.6
+Ingenieria Minera,RUMANÍA,Petrosani,University of Petrosani,1,10,SI,B1 Ingles,686,1
+Ingenieria Agraria,ALEMANIA,Freising,Hochschule Weihenstephan - Triesdorf,2,10,SI,B2 Aleman,686,1
+Ingenieria Agraria,ALEMANIA,Giessen,Justus Liebig Universität Giessen,1,10,SI,B1 Aleman,259,4.6
+Ingenieria Agraria,BULGARIA,Ruse, Angel Kanchev University of Ruse,2,10,SI,B1 Ingles,686,1
+Ingenieria Agraria,CROACIA,Osijek,OSIP JURAJ STROSSMAYER UNIVERSITY OF OSIJEK- UNIOS,1,10,SI,B2 Ingles,517,14.3
+Ingenieria Agraria,FRANCIA,Angers,Angers University,3,10,SI,B1 Frances,530,55.4
+Ingenieria Agraria,GRECIA,Atenas,Agricultura Universidad Athens,3,10,SI,B2 Ingles,686,1
+Ingenieria Agraria,HUNGRÍA,Debrecen,UNIVERSITY OF DEBRECEN,1,10,SI,B2 Ingles,223,18.7
+Ingenieria Agraria,HUNGRÍA,Godollo,SZENT ISTVAN EGYETEM,1,10,SI,B2 Ingles,434,33
+Ingenieria Agraria,ITALIA,Bolonia,Universidad de Bologna,3,10,NO,A2 Italiano,48,82.3
+Ingenieria Agraria,ITALIA,Foggia,University of Foggia,2,10,NO,B1 Italiano,477,79.9
+Ingenieria Agraria,ITALIA,Napoles,U. Degli Studi Di Napoli. Federico II,2,10,NO,B1 Italiano,151,11.2
+Ingenieria Agraria,ITALIA,Sassari,Universidad de Sassari,1,10,NO,B1 Italiano,686,1
+Ingenieria Agraria,ITALIA,Teramo,Universitá degli Studi de Teramo,3,10,SI,B1 Italiano,686,1
+Ingenieria Agraria,LITUANIA,Kaunas,Vytautas Magnus University,2,10,SI,B2 Ingles,270,88.4
+Ingenieria Agraria,LITUANIA,Kaunas,Aleksandras Stulginskis University,1,10,SI,B2 Ingles,686,1
+Ingenieria Agraria,POLONIA,Bydgoszcz,Uniwersytet Technologiczno - Przyrodniczy,2,10,SI,B1 Ingles,686,1
+Ingenieria Agraria,POLONIA,Breslavia,Wroclaw University Of Environmental And Life Sciences,2,10,SI,B2 Ingles,452,53.1
+Ingenieria Agraria,PORTUGAL,Beja,Instituto Politecnico De Beja,2,10,NO,B1 Portugués,686,1
+Ingenieria Agraria,PORTUGAL,Braganza,Instituto Politecnico de Braganza,4,10,NO,B1 Portugués,686,1
+Ingenieria Agraria,PORTUGAL,Coimbra,Instituto Politecnico De Coimbra,2,10,NO,B1 Portugués,138,97.8
+Ingenieria Agraria,PORTUGAL,Porto Alegre,Instituto Politecnico de Portoalegre,2,10,NO,B1 Portugués,686,1
+Ingenieria Agraria,PORTUGAL,Vila Real,Universidade de Tras os Montes E Alto Douro,3,10,NO,B1 Portugués,531,9.8
+Ingenieria Agraria,REPÚBLICA CHECA,Praga,Czech University of Life Sciences Prague,2,10,SI,B1 Ingles,253,88.3
+Ingenieria Agraria,RUMANÍA,Cluj-Napoca,University Of Agricultural Sciences And Veterinary Medicine,3,10,SI,B2 Ingles,686,1
+Ingenieria Agraria,RUMANÍA,Oradea,Universitatea Din Oradea,3,10,SI,B1 Ingles,591,7
+Ingenieria Agraria,TURQUÍA,Isparta,Suleyman Demirel University,2,10,SI,B1 Ingles,527,34.5
+Ingenieria Agraria,TURQUÍA,Samsun,Ondokuz Mayis University,1,10,SI,B1 Ingles,686,1
+Ingenieria Forestal,ALEMANIA,Freising,Hochschule Weihenstephan - Triesdorf,1,10,SI,B2 Aleman,686,1
+Ingenieria Forestal,ALEMANIA,Hildesheim,FACHHOCHSCHULE HILDESHEIM-HOLZMINDEN-Gottingen,1,10,SI,A2 Aleman o B1 Ingles,686,1
+Ingenieria Forestal,ITALIA,Sassari,Universidad de Sassari,1,10,NO,B1 Italiano,686,1
+Ingenieria Forestal,LITUANIA,Kaunas,Aleksandras Stulginskis University,1,10,SI,B2 Ingles,270,88.4
+Ingenieria Forestal,POLONIA,Bydgoszcz,Uniwersytet Technologiczno - Przyrodniczy,2,10,SI,B1 Ingles,452,53.1
+Ingenieria Forestal,POLONIA,Torun,Nicolaus Copernicus University in Toru´n,2,10,SI,B1 Ingles,384,18.4
+Ingenieria Forestal,PORTUGAL,Braganza,Instituto Politecnico de Braganza,2,10,NO,B1 Portugués,686,1
+Ingenieria Forestal,PORTUGAL,Coimbra,Instituto Politecnico De Coimbra,3,10,NO,B1 Portugués,138,97.8
+Ingenieria Forestal,PORTUGAL,Lisboa,Universidade de Lisboa,2,10,SI,B1 Portugués,92,79.4
+Ingenieria Forestal,PORTUGAL,Vila Real,Universidade De Tras Os Montes E Alto Douro,3,10,NO,B1 Portugués,531,9.8
+Ingenieria Forestal,REINO UNIDO,Inverness,Inverness College,2,10,SI,B2 Ingles,686,1
+Ingenieria Forestal,REPÚBLICA CHECA,Praga,Czech University of Life Sciences Prague,2,10,SI,B1 Ingles,253,88.3
+Educacion Infantil,ALEMANIA,Hanover,Leibniz Universität Hannover,2,5,SI,B2 Aleman,172,9.4
+Educacion Infantil,FRANCIA,Orleans,Universidad de Orleans,2,5,SI,B2 Frances,511,5.2
+Educacion Infantil,HUNGRÍA,Budapest,Eötvös Lorand Tudomanyegyetem ,2,10,SI,B2 Ingles,191,56.7
+Educacion Infantil,ITALIA,Bari,Universita Degli Studi Di Bari,3,10,NO,B1 Italiano,311,16.3
+Educacion Infantil,ITALIA,Bolonia,Universidad de Bologna,3,10,NO,A2 Italiano,48,82.3
+Educacion Infantil,ITALIA,Chieti,Universita Degli Studi di G. D'Annunzio Chieti,4,10,NO,B1 Italiano o B1 Ingles,469,8.5
+Educacion Infantil,ITALIA,Genova, Universita Degli Studi Di Genova,3,10,NO,B1 Italiano,227,56
+Educacion Infantil,ITALIA,Macerata,Universita Degli Studi Di Macerata,6,10,SI,B1 Italiano,583,2.8
+Educacion Infantil,ITALIA,Perugia,Universidad de Perugia,3,10,NO,B1 Italiano,358,31.5
+Educacion Infantil,ITALIA,Pisa,Universita di Pisa,2,10,SI,B1 Ingles o B1 Italiano,137,62
+Educacion Infantil,ITALIA,Padua,Universita Degli Studi di Padova,3,10,SI,A2 Italiano o B1 Ingles,87,75.2
+Educacion Infantil,PORTUGAL,Braganza,Instituto Politecnico de Braganza,6,10,NO,B1 Portugués,686,1
+Educacion Infantil,PORTUGAL,Lisboa,Instituto Superior de Educaçao e Ciências,2,10,NO,B1 Portugués,686,1
+Educacion Infantil,PORTUGAL,Oporto,Instituto Politecnico Porto,2,10,SI,B1 Portugués o B2 Ingles,111,84.5
+Educacion Infantil,REINO UNIDO,Belfast,Stranmillis College,10,5,SI,B2 Ingles,686,1
+Educacion Infantil,RUMANÍA,Sibiu,Universitatea Lucian Blaga Din Sibiu,2,5,SI,B1 Ingles,566,10.9
+Educacion Infantil,SUECIA,Sundsvall,Mid Swedenuniversity,6,6,SI,B1 Ingles,568,42.5
+Educacion Primaria,ALEMANIA,Hanover,Leibniz Universität Hannover,2,5,SI,B2 Aleman,172,9.4
+Educacion Primaria,ALEMANIA,Kiel,Christian-Albrechts-Universität Kiel,1,10,SI,B1 Ingles,204,4.6
+Educacion Primaria,ALEMANIA,Weingarten,Padagogische Hochschule Weingarten University of Education,1,10,SI,B1 Ingles o B1 Aleman,686,1
+Educacion Primaria,FRANCIA,Orleans,Universidad de Orleans,2,5,SI,B2 Frances,511,5.2
+Educacion Primaria,HUNGRÍA,Budapest,Eötvös Lorand Tudomanyegyetem ,2,10,SI,B2 Ingles,191,56.7
+Educacion Primaria,ITALIA,Bari,Universita Degli Studi Di Bari,3,10,NO,B1 Italiano,311,16.3
+Educacion Primaria,ITALIA,Bolonia,Universidad de Bologna,3,10,NO,A2 Italiano,48,82.3
+Educacion Primaria,ITALIA,Chieti,Universita Degli Studi di G. D'Annunzio Chieti,4,10,NO,B1 Italiano o B1 Ingles,469,8.5
+Educacion Primaria,ITALIA,Genova,Universita Degli Studi Di Genova,3,10,NO,B1 Italiano,227,56
+Educacion Primaria,ITALIA,Macerata,Universita Degli Studi Di Macerata,6,10,SI,B1 Italiano,583,2.8
+Educacion Primaria,ITALIA,Milan,Universidad de Milan-Bicocca,2,10,SI,B1 Italiano,207,16.1
+Educacion Primaria,ITALIA,Perugia,Universidad de Perugia,3,10,NO,B1 Italiano,358,31.5
+Educacion Primaria,ITALIA,Pisa,Universita di Pisa,2,10,SI,B1 Ingles o B1 Italiano,137,62
+Educacion Primaria,ITALIA,Roma,Universita Europea Di Roma,3,10,SI,B1 Italiano o B2 Ingles,686,1
+Educacion Primaria,ITALIA,Padua,Universita Degli Studi di Padova,3,10,SI,A2 Italiano o B1 Ingles,87,75.2
+Educacion Primaria,PORTUGAL,Braganza,Instituto Politecnico de Braganza,6,10,NO,B1 Portugués,686,1
+Educacion Primaria,PORTUGAL,Lisboa,Instituto Superior de Educaçao e Ciências,2,10,NO,B1 Portugués,686,1
+Educacion Primaria,PORTUGAL,Oporto,Instituto Politecnico Porto,2,10,SI,B1 Portugués o B2 Ingles,686,1
+Educacion Primaria,REINO UNIDO,Belfast,Stranmillis College,10,5,SI,B2 Ingles,686,1
+Educacion Primaria,RUMANÍA,Sibiu,Universitatea Lucian Blaga Din Sibiu,2,5,SI,B1 Ingles,566,10.9
+Educacion Primaria,SUECIA,Sundsvall,Mid Swedenuniversity ,6,6,SI,B1 Ingles,568,42.5
+Educacion Social,ALEMANIA,Hanover, Leibniz Universität Hannover,2,5,SI,B2 Aleman,172,9.4
+Educacion Social,ITALIA,Bolonia,Universidad de Bologna,3,10,NO,A2 Italiano,48,82.3
+Educacion Social,ITALIA,Genova,Universita Degli Studi Di Genova,3,10,NO,B1 Italiano,227,56
+Educacion Social,ITALIA,Perugia,Universidad de Perugia,3,10,NO,B1 Italiano,358,31.5
+Educacion Social,ITALIA,Roma,Universidad LUMSA (Roma),2,5,NO,B2 Italiano,686,1
+Educacion Social,ITALIA,Padua,Universita Degli Studi di Padova,3,10,SI,A2 Italiano o B1 Ingles ,87,75.2
+Educacion Social,PORTUGAL,Braganza,Instituto Politecnico de Braganza,6,10,NO,B1 Portugués,686,1
+Educacion Social,PORTUGAL,Fafe,  Escola superior de Educaçao de Fafe,4,10,NO,B1 Portugués,686,1
+Educacion Social,PORTUGAL,Oporto, Universidade do Porto,4,5,NO,B1 Portugués,111,84.5
+Educacion Social,SUECIA,Sundsvall,Mid Swedenuniversity,6,6,SI,B1 Ingles,568,42.5
+Enfermeria,BÉLGICA,Malinas,Thomas More Mechelen ,2,3,SI,B2 Ingles,686,1
+Enfermeria,ITALIA,Foggia,University of Foggia,3,10,NO,B1 Italiano,477,79.9
+Enfermeria,ITALIA,Perugia,Universidad de Perugia,3,10,SI,B1 Italiano ,358,31.5
+Enfermeria,ITALIA,Sassari,Universidad de Sassari,2,10,NO,B1 Italiano,686,1
+Enfermeria,LITUANIA,Vilna, Vilna University of Applied Sciences,2,10,SI,B1 Ingles,686,1
+Enfermeria,PORTUGAL,Braga,Universidade Do Minho,2,10,NO,B2 Portugués,248,9.8
+Enfermeria,PORTUGAL,Braganza,Instituto Politecnico de Braganza,4,10,NO,B1 Portugués,686,1
+Enfermeria,PORTUGAL,Coimbra,Escola Superior de Enfermagen de Coimbra,2,10,NO,B1 Portugués,686,1
+Enfermeria,PORTUGAL,Portalegre,Instituto Politecnico de Portoalegre,2,10,NO,B2 Portugués,686,1
+Enfermeria,PORTUGAL,Oporto,Escola Superior de Enfermagen do Porto,1,10,NO,B1 Portugués,686,1
+Enfermeria,PORTUGAL,Santarém,Instituto Politecnico de Santarem,4,3,NO,B2 Portugués,686,1
+Fisioterapia,ESLOVENIA,Maribor,Alma Mater Europaea European Centre. Maribor  ,2,5,SI,B1 Ingles,686,1
+Fisioterapia,ITALIA,Foggia,University of Foggia,3,10,NO,B1 Italiano,477,79.9
+Fisioterapia,ITALIA,Sassari,Universidad de Sassari,2,10,NO,B1 Italiano,686,1
+Fisioterapia,LITUANIA,Hamburgo,Hamburgo University of Applied Sciences,2,10,SI,B1 Ingles,686,1
+Fisioterapia,POLONIA,Opole,Opole University Of Technology,2,10,SI,B2 Ingles,686,1
+Fisioterapia,PORTUGAL,Castelo Branco,Instituto Politecnico de Castelo Branco,1,10,NO,B1 Portugués,686,1
+Fisioterapia,PORTUGAL,Viseu,Instituto Piaget ,1,10,NO,B1 Portugués,686,1
+Podologia,FRANCIA,Paris,Institut National de Podologie ,3,5,SI,B2 Frances,686,1
+Trabajo Social,ALEMANIA,Friburgo,Katholische Hochschule Freiburg,1,10,SI,B1 Aleman,76,35.2
+Trabajo Social,ITALIA,Catania,Universita Degli Studi Di Catania,3,10,NO,A2 Italiano,357,28.2
+Trabajo Social,ITALIA,Macerata,Universita Degli Studi Di Macerata,2,10,SI,B1 Italiano,583,2.8
+Trabajo Social,ITALIA,Palermo,Universita Degli Studi Di Palermo,4,6,NO,B1 Italiano,337,26.4
+Trabajo Social,ITALIA,Roma,Universidad LUMSA (Roma),4,6,NO,B2 Italiano,686,1
+Trabajo Social,PORTUGAL,Leiria,Politechnic Institute of Leiria,2,10,NO,B1 Portugués,686,1
+Trabajo Social,PORTUGAL,Lisboa,Universidade de Lisboa,2,10,SI,B1 Portugués,92,79.4
+Ciencias del Deporte,ALEMANIA,Bayreuth,Universität Bayreuth,2,10,SI,B2 Ingles o B2 Aleman,203,96.8
+Ciencias del Deporte,CROACIA,Zagreb,  University of Zagreb,2,10,SI,B2 Ingles,243,32.5
+Ciencias del Deporte,FRANCIA,Amiens,Université De Picardie Jules Verne,1,10,SI,B1 Frances,686,1
+Ciencias del Deporte,FRANCIA,Lille,Universite Du Droit Et De La Sante De Lille,1,10,SI,B2 Frances,250,5.2
+Ciencias del Deporte,FRANCIA,Lyon, Universitè Claude Bernanrd,3,10,SI,B2 Frances,251,5.2
+Ciencias del Deporte,FRANCIA,Nanterre,Universidad de París-Nanterre,2,10,SI,B1 Frances,436,5.2
+Ciencias del Deporte,FRANCIA,Créteil, Creteil Val De Marne,2,10,SI,B1 Frances,686,1
+Ciencias del Deporte,FRANCIA,Reims,University Of Reims Champagne-Ardenne,1,10,SI,B1 Frances,686,1
+Ciencias del Deporte,HUNGRÍA,Pécs,UNIVERSITY OF PÉCS,2,10,SI,B1 Ingles,314,19.3
+Ciencias del Deporte,ITALIA,Bolonia,Universidad de Bologna,3,10,NO,A2 Italiano,48,82.3
+Ciencias del Deporte,ITALIA,Chieti,Universita Degli Studi di G. D'Annunzio Chieti,1,10,NO,B1 Italiano o B1 Ingles,469,8.5
+Ciencias del Deporte,ITALIA,Foggia, University of Foggia,5,10,NO,B1 Italiano,477,79.9
+Ciencias del Deporte,ITALIA,L'Aquila, University of L´Aquila,3,10,NO,B1 Italiano,582,13.1
+Ciencias del Deporte,ITALIA,Lecce,Universidad de Salento (Lecce),3,10,NO,B1 Italiano,420,13.4
+Ciencias del Deporte,ITALIA,Varese,Universidad de Insubria,1,10,NO,B2 Italiano,465,11
+Ciencias del Deporte,LITUANIA,Kaunas,Lithuanian Sports University,2,10,SI,B1 Ingles,686,1
+Ciencias del Deporte,NORUEGA,Stavanger,  University of Stavanger,1,10,SI,B2 Ingles,353,4.6
+Ciencias del Deporte,POLONIA,Opole,Opole University Of Technology,3,10,SI,B2 Ingles,686,1
+Ciencias del Deporte,POLONIA,Poznan, Poznan Universiy of Physical Education,3,10,SI,B1 Ingles,686,1
+Ciencias del Deporte,PORTUGAL,Barcelos, Instituto Politecnico do Cavado e do Ave,2,10,NO,B1 Portugués,686,1
+Ciencias del Deporte,PORTUGAL,Coimbra,Universidad de Coimbra,4,10,NO,B1 Portugués,138,97.8
+Ciencias del Deporte,PORTUGAL,Guarda,Instituto Politecnico Guarda,2,10,NO,A2 Portugués,686,1
+Ciencias del Deporte,PORTUGAL,Almada, Instituto Piaget,1,10,NO,B1 Portugués,686,1
+Ciencias del Deporte,PORTUGAL,Lisboa,Universidade de Lisboa,2,10,SI,B1 Portugués,92,79.4
+Ciencias del Deporte,PORTUGAL,Oporto,Universidade do Porto,2,10,NO,B1 Portugués,111,84.5
+Ciencias del Deporte,PORTUGAL,Vila Real,Universidade De Tras Os Montes E Alto Douro,2,10,NO,B1 Portugués,531,9.8
+Ciencias del Deporte,REINO UNIDO,Worcester, University of Worcester,1,10,SI,B2 Ingles,686,1

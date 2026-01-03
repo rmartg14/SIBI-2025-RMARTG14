@@ -1,0 +1,7 @@
+streamlit
+neo4j
+llama-index-core
+groq
+python-dotenv
+pandas
+llama-index-graph-stores-neo4j
