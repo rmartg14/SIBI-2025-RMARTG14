@@ -1,5 +1,5 @@
 # ErasmAI – Recomendador Erasmus con IA
-
+## Autor: Rubén Martínez García - rmartg14@estudiantes.unileon.es
 ## ¿Qué es este proyecto?
 
 ErasmAI es un asistente que ayuda a recomendar un único destino Erasmus al estudiante, 
