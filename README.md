@@ -29,7 +29,7 @@ usando una combinación de:
   Documentación generada durante el proyecto:
   - `Memoria_ErasmAI.pdf`
   - `Presentacion_ErasmAI.pdf`
-  - `Video_ErasmAI.mp4`
+  - `Video_ErasmAI.txt`
 
 ## Listado de avances en el desarrollo:
 https://osf.io/6qr4b/wiki?wiki=39t8g
